@@ -1,0 +1,4586 @@
+[
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/$identitynormalmap.iwi",
+    "status": "ok_v6_fmt13_mips3",
+    "dds_path": "textures_dds/mod_00/images/$identitynormalmap.dds",
+    "dds_size": 176,
+    "dds_sha256": "a19ece5dbd0cdc56a8489cde7afd9fd3c02f5e3a7c3b589f028bcd82ef48a896"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gblood_spatter01_col.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gblood_spatter01_col.dds",
+    "dds_size": 87536,
+    "dds_sha256": "1d90a7f07b96bcf76e8dfcfdfe69c0257e2a3c2f810e6b09ac43c391fdc6276b"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gblood_spatter02_col_mature.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gblood_spatter02_col_mature.dds",
+    "dds_size": 87536,
+    "dds_sha256": "45442acfd3944be381f13ce790ca1c8ea936c7462dcb33d65b0f8cad50197c1e"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gblood_spatter03_col.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gblood_spatter03_col.dds",
+    "dds_size": 87536,
+    "dds_sha256": "e8ddf076bc36ad6576af13d88984a15e8b173a2b35668ef5997d86eec8fa9235"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gbullethit_snow.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gbullethit_snow.dds",
+    "dds_size": 5616,
+    "dds_sha256": "2c0b08d8fd7ec3a1273b7444b44cec83ff6f18d252007a4d86020eb4817fd923"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_blueice_col.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_blueice_col.dds",
+    "dds_size": 16777344,
+    "dds_sha256": "3e64bdaa81b4e76e16858f29bb2a5400a14cc045cab9286c1519a84c9bb194cc"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_blue_col.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_blue_col.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "063d85636bba2b0a272ce818cac6ba66e5758b3050e3ab00d4a49cbd40f450ac"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_code_spc.iwi",
+    "status": "ok_fmt13_mips6_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_code_spc.dds",
+    "dds_size": 1520,
+    "dds_sha256": "cbc5671282bac6bac5accf0de26c4c79f77c11a917005c57b9ed29ceea5e36e2"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_crystallize_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_crystallize_col.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "06448b6cbb1766ce59d271e41b472df702a25d2d850e95f1852c431bba536e58"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_cyberpunk_col.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_cyberpunk_col.dds",
+    "dds_size": 262272,
+    "dds_sha256": "9b1dead41d34aba83e1893850fe5b85613242960d9dabf564636381754bf6710"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_darkmatter_col.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_darkmatter_col.dds",
+    "dds_size": 262272,
+    "dds_sha256": "772a0f0ba7d5b0d55b74acf4e3449727e4c4eefddc042d14ce341f2195482731"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_dragon_col.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_dragon_col.dds",
+    "dds_size": 262272,
+    "dds_sha256": "2dab0b693222ada0129e6e9b0b7b794468f1297a4534d5e8574dfcf67dce7e82"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_gold_col.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_gold_col.dds",
+    "dds_size": 22000,
+    "dds_sha256": "97f257d9529fd3dcdbc8d47f08068483d1fd892d46b74329926f47e198de2458"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_interstellar_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_interstellar_col.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_lightning_col.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_lightning_col.dds",
+    "dds_size": 262272,
+    "dds_sha256": "158622ed7289693ae7586a1243f885af5cf6d5266c9732bc594ced658fd2188a"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_blast_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_blast_col.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "88e8847e812e3cc1dd719ce5c0f30790723a2d39c98f69b5110db960b10e122f"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_blossom_col.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_blossom_col.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "e55fcbcae40e53bf0bfed9b3757b2707867aede73bc370752104689eecd9dead"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_bo1_col.iwi",
+    "status": "ok_fmt11_mips1_flags3",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_bo1_col.dds",
+    "dds_size": 640,
+    "dds_sha256": "8343206b4759ffa855b48548162ab74822e386fc94a63c2ae65be564697940b8"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_bx7_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_bx7_col.dds",
+    "dds_size": 131200,
+    "dds_sha256": "7d7e13dc585a0c2c55d9b4189d9f24c2fb14e302d883919643bd322709d3ab0c"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_cherryfizz_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_cherryfizz_col.dds",
+    "dds_size": 131200,
+    "dds_sha256": "a80bc51269e9c27b72c1daea885089f0b8448132d6477038aca42d559fbfcc2f"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_cosmic.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_cosmic.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "2118d91fd236020f88266c3e6fe4b4a7941392c4157b96d31e371424e06bed82"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_cosmic_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_cosmic_col.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "ccd09b38556ff8b1a3c6c0ed4f5f0ddfd33e455c1bbcf08735b0c1c851d531c0"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_dlc2_alt_col.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_dlc2_alt_col.dds",
+    "dds_size": 16512,
+    "dds_sha256": "16e11349d47693e7a1473dddeb50015b60046222003f6a03bb4e001cb2d232b6"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_dlc2_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_dlc2_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "05e26ee3d35f19ae246a73765f087daf24efc5ecab3dece19143266b47843940"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_dlc4_alt_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_dlc4_alt_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "bc3e94c3455458615951627edf7f02c5fbb81202f88db5f0158b46c482909e1a"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_dragonscale_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_dragonscale_col.dds",
+    "dds_size": 131200,
+    "dds_sha256": "12e832717dd0cc801fde33922d26f96d5a67911e649ed9bf2ffb18808864b5ba"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_gold_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_gold_col.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_mystic_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_mystic_col.dds",
+    "dds_size": 131200,
+    "dds_sha256": "54ba8fdca1b62dc8be2e6231e3804c67082ba172da34edd6ca65f1a42e737040"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_psychodelic_col.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_psychodelic_col.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "ccecc610e0cb1e0d38bc6513ecfde54f2cffdc877a92a1505a63651746610f61"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_purpleroyalty_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_purpleroyalty_col.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcamo_zmb_vip_col.iwi",
+    "status": "ok_fmt13_mips12_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gcamo_zmb_vip_col.dds",
+    "dds_size": 5592560,
+    "dds_sha256": "1f813fbfcce6d8917daf8d6f45c290ac3f6a6f374fe7d74a390a3e56b6eddf23"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gclan_font_c.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gclan_font_c.dds",
+    "dds_size": 131200,
+    "dds_sha256": "a15410674f964ec1dc48249b591cc68ac612941cd342eb4c378f4762396b5dcb"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcrater_blacktop.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gcrater_blacktop.dds",
+    "dds_size": 349680,
+    "dds_sha256": "7ae0326a561b4357dc4baf830a2e4ad11c6bba3346b4ad5036577a39894ae7f7"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gcrater_snow_grenade.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gcrater_snow_grenade.dds",
+    "dds_size": 349680,
+    "dds_sha256": "e2232e94d4ecbb63a484235a934e4b9e6de3d123c7c9141391be1209668a29a8"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gc_usa_milcas_mcknight_head_camo_c.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gc_usa_milcas_mcknight_head_camo_c.dds",
+    "dds_size": 699216,
+    "dds_sha256": "8256075a4a927f2db7394a76762fb1eb1101e079c4c81e0b8473b3e05431ff7b"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gc_zom_player_cdc_body_c.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gc_zom_player_cdc_body_c.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "6473659a71efce9bcf8a265c13d7e7778fbaa5e92b39c4b729d41f33f7040088"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gc_zom_player_cdc_comandmask_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gc_zom_player_cdc_comandmask_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "5cb1970ae850ad6584f2ac7b76711f6f0504c327a585098e879662f6bfbd29f9"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gc_zom_player_cdc_gear_c.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gc_zom_player_cdc_gear_c.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "653cb07f625de97d26a9ce8c89459b29779fc2d305c4b176e8e7f274c1478bd2"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gc_zom_player_cdc_visor_c.iwi",
+    "status": "ok_fmt11_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gc_zom_player_cdc_visor_c.dds",
+    "dds_size": 43832,
+    "dds_sha256": "5411327d5156f2e592bd6a4e2e8cffcf3e688446fb6346e3c55e15f9575072c1"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gfx_bullet_chain_col.iwi",
+    "status": "ok_fmt13_mips1_flags3",
+    "dds_path": "textures_dds/mod_00/images/~-gfx_bullet_chain_col.dds",
+    "dds_size": 2176,
+    "dds_sha256": "01af00aaa41da7ff9d8477211c4be47d2f7a813c08f6c3eac65810dee1ff8a80"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gimpact_wood01_col.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gimpact_wood01_col.dds",
+    "dds_size": 5616,
+    "dds_sha256": "fb75a428309e68f21800a601034ea4d3e36b02c37bb9457b8a827bcfaf134b6d"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gimpact_wood02_col.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gimpact_wood02_col.dds",
+    "dds_size": 5616,
+    "dds_sha256": "854a1f30c4ba49426191df9cff2e5e5f7f5983e52f7f3dba6944c2440c29dfa0"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gimpact_wood03_col.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gimpact_wood03_col.dds",
+    "dds_size": 5616,
+    "dds_sha256": "a56e07067cecff79d4f17dbe2073fbcf09d843c2803d6765e968c175cb5f2cf1"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-glimbs_c.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-glimbs_c.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "73bea6b58a316b03dae545b416e462a311dbf2e32b0cf7a0bf1431851f00b024"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t5_wpn_zmb_freezegun_ammo_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t5_wpn_zmb_freezegun_ammo_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "525bc329184e28b61f973c5ad503e3df32a1b72fc0de7c38e9af859bd3561c8e"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t5_wpn_zmb_freezegun_ammo_unlit_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t5_wpn_zmb_freezegun_ammo_unlit_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "57947c26a96cae6c2cc043ce0475d6f0ead1cd7c36d9d596fc6878e40ec884f3"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t5_wpn_zmb_freezegun_col.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t5_wpn_zmb_freezegun_col.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "2652d18546f001284c62451e4e25301f831dc9ceb30faadf89da3180199d36ea"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t5_wpn_zmb_tesla_chamber_scroll_col.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t5_wpn_zmb_tesla_chamber_scroll_col.dds",
+    "dds_size": 22000,
+    "dds_sha256": "ad609b410d8f6c4fa81cd12b4832ba0863843c2806e112600f70424c53981c5c"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t5_wpn_zmb_thundergun_chamber_glass_col.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t5_wpn_zmb_thundergun_chamber_glass_col.dds",
+    "dds_size": 22000,
+    "dds_sha256": "b5cd6ede0626525afa78e0cd630a4cf867b90a70176e0ad5fa9a3b94ea94efdb"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t5_wpn_zmb_thundergun_col.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t5_wpn_zmb_thundergun_col.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "31bfe5a8a8e7e69623c4691e7cd2fe8c3a4d8a0fef9287375238af165284ce51"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t5_wpn_zmb_thundergun_control_box_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t5_wpn_zmb_thundergun_control_box_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "16bf3d9ff276baafba645224bee186ccaa15d23de860e856db50548606b74e9c"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t5_wpn_zmb_thundergun_mesh_col.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t5_wpn_zmb_thundergun_mesh_col.dds",
+    "dds_size": 22000,
+    "dds_sha256": "1851410016919c8e5a03a6d770953eadb34a0d298729a908be0ab9cf2467feed"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_attach_bullet_col.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_attach_bullet_col.dds",
+    "dds_size": 65664,
+    "dds_sha256": "170fd5e246b9201be38ddccc56d507e809aa3625a3e35404171228a367dc923a"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_pistol_m1911_col.iwi",
+    "status": "ok_fmt11_mips1_flags3",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_pistol_m1911_col.dds",
+    "dds_size": 640,
+    "dds_sha256": "8343206b4759ffa855b48548162ab74822e386fc94a63c2ae65be564697940b8"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_smg_peacekeeper_col.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_smg_peacekeeper_col.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "4299d5d0038c18e234ac0a4187c537a456bf52f8ef68d2039711d5a01b5485d7"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_zmb_staff_crystal_camo_e.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_zmb_staff_crystal_camo_e.dds",
+    "dds_size": 87536,
+    "dds_sha256": "78618903a7388aa3838728bfe60ba7c94057a0b29e31f509433d73100d302762"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_zmb_staff_cryst~5094c494.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_zmb_staff_cryst~5094c494.dds",
+    "dds_size": 87536,
+    "dds_sha256": "3192c54cdd6669c1180a005e3479d8eeb3c75fb2130bdbd2b07b62e8198b4db0"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_zmb_staff_cryst~95c3e639.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_zmb_staff_cryst~95c3e639.dds",
+    "dds_size": 87536,
+    "dds_sha256": "b84c859486f5e76aa0a87f5164ff02b496e4ba22eedfd118382cf8c5984debac"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_zmb_tesla_camo1_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_zmb_tesla_camo1_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "c4d05d06f2d90eb3aecc8b8dc79d86790114f41aa3311d72762bd36305787701"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_zmb_tesla_camo_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_zmb_tesla_camo_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "c4d05d06f2d90eb3aecc8b8dc79d86790114f41aa3311d72762bd36305787701"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_zmb_tesla_chamber_col.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_zmb_tesla_chamber_col.dds",
+    "dds_size": 22000,
+    "dds_sha256": "3a1bfa086c52ddd693714e1cfc3983a87f2892d0f3711c7e36ed37bf16b87647"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_zmb_tesla_glass_col.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_zmb_tesla_glass_col.dds",
+    "dds_size": 22000,
+    "dds_sha256": "8189170f53d9f58bfd9927490b002ddaca37900bc4ff70d96ab920475b8705fe"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_zmb_tesla_vacuum_camo1_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_zmb_tesla_vacuum_camo1_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "4ba039e0ca519c7c95aa17691d01e808789cfd049492895d234a9929ebe33fd0"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_zmb_tesla_vacuum_camo_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_zmb_tesla_vacuum_camo_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "4ba039e0ca519c7c95aa17691d01e808789cfd049492895d234a9929ebe33fd0"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_zmb_tesla_vacuum_filament_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_zmb_tesla_vacuum_filament_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "55c24d581ebb81a4ca5931a76b2c15bd58d67a4f05826bba7e9a4200c88b84fe"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t6_wpn_zmb_tesla_vacuum_glass_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t6_wpn_zmb_tesla_vacuum_glass_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "55c24d581ebb81a4ca5931a76b2c15bd58d67a4f05826bba7e9a4200c88b84fe"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t7_zmb_zod_idg_body_c.iwi",
+    "status": "ok_v13_fmt13_mips11",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t7_zmb_zod_idg_body_c.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "9224166b6532e9738ef6ef8e8474c9af490694e4ea219182800a3f4b60184708"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t7_zmb_zod_idg_bone_c.iwi",
+    "status": "ok_v13_fmt13_mips10",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t7_zmb_zod_idg_bone_c.dds",
+    "dds_size": 349680,
+    "dds_sha256": "8c53f187c76aefa21e807b0a0b5d7503cffa000416efbbb1207a12d2abb9a074"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t7_zmb_zod_idg_eyes_c.iwi",
+    "status": "ok_v13_fmt13_mips10",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t7_zmb_zod_idg_eyes_c.dds",
+    "dds_size": 349680,
+    "dds_sha256": "f3c43762f8f04a22afb112d7053f1675de90bbc387d42f4bb22f618119bb2a55"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t7_zmb_zod_idg_sacks_c.iwi",
+    "status": "ok_v13_fmt13_mips10",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t7_zmb_zod_idg_sacks_c.dds",
+    "dds_size": 349680,
+    "dds_sha256": "d8574ef8249f6e449113dfcb5649873a597b34ecb83a3a2773feb88aee9e4aae"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_t7_zmb_zod_idg_tentacles_c.iwi",
+    "status": "ok_v13_fmt13_mips11",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_t7_zmb_zod_idg_tentacles_c.dds",
+    "dds_size": 699216,
+    "dds_sha256": "a318481b564bf5f98e88c76e0f81a45475e12bc9946985bb61242a8bb73bd78c"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_zmb_zod_idg_ammo.iwi",
+    "status": "ok_v13_fmt12_mips10",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_zmb_zod_idg_ammo.dds",
+    "dds_size": 349680,
+    "dds_sha256": "223a58c3633806670842799c01a5aa93934a2409a66a1986ca1d2f9054ef65a3"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gmtl_zmb_zod_idg_pap.iwi",
+    "status": "ok_v13_fmt11_mips10",
+    "dds_path": "textures_dds/mod_00/images/~-gmtl_zmb_zod_idg_pap.dds",
+    "dds_size": 174904,
+    "dds_sha256": "c04085c7d2474b86c03d7b8950fa3013aa976ad71830ac7d95f061bae5e1c4c4"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gplayer_emblem_spec_rough.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~-gplayer_emblem_spec_rough.dds",
+    "dds_size": 65664,
+    "dds_sha256": "426c975fea17a6816eaf569db3928ed42043e7a585b24e1b70937035aeb16fc6"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-grus_ter_ice_clear_c.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-grus_ter_ice_clear_c.dds",
+    "dds_size": 87536,
+    "dds_sha256": "ca408f3c725a986004d1dc505b429a4d4cb2d8327014c6bad08cdf1f2838cf30"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-grus_ter_ice_slush_c.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-grus_ter_ice_slush_c.dds",
+    "dds_size": 349680,
+    "dds_sha256": "50a26d4fd3ebe97afb22dd79baac299f2f514b4d37095bb311c680ec7ab668f2"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gt6_camo_dayofdead_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gt6_camo_dayofdead_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "3c151925ea3221c5203fd063c2ee3e840a7426a9bd799913e49080bd831f348d"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gt6_camo_dayofdead_light.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gt6_camo_dayofdead_light.dds",
+    "dds_size": 349680,
+    "dds_sha256": "d7b6eb033be8efd98c3713694034991e7b2d474ae5d7fa08df6fcd2e7901dbbb"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gt6_camo_ghost_col.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gt6_camo_ghost_col.dds",
+    "dds_size": 349680,
+    "dds_sha256": "a8db6abf71c326e4feb77d2900a90d1f124f75840168be0055308e4b9d5d617f"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gt6_camo_ghost_light.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gt6_camo_ghost_light.dds",
+    "dds_size": 349680,
+    "dds_sha256": "e3538e6d242f8c4b8595744befb97a21651dbe340d04928df9490b0221f36bcf"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gthunder_chamber_main_c.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gthunder_chamber_main_c.dds",
+    "dds_size": 349680,
+    "dds_sha256": "4e2e3d76559109749de0a8bd245825d0229a597bf2c41253099fda6a6b927e57"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gviewarm_zom_farmergirl_c.iwi",
+    "status": "ok_fmt13_mips12_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gviewarm_zom_farmergirl_c.dds",
+    "dds_size": 2796368,
+    "dds_sha256": "3a0ec571413d64a88ee98b4b4b0dda74f6eac48ff80e5e77673a0eab5b2c7ed2"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~-gzombie_teleporter_glow_c.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~-gzombie_teleporter_glow_c.dds",
+    "dds_size": 22000,
+    "dds_sha256": "8f6029fedd65af28aba132b16ff68abeceb8e7673ce6400c5dd24e1319317a44"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~mtl_t5_wpn_zmb_freezegun_ammo_ao~12a33730.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~mtl_t5_wpn_zmb_freezegun_ammo_ao~12a33730.dds",
+    "dds_size": 349680,
+    "dds_sha256": "14a78538dd1cc2642fad1513924d8fb9ecc8fa1e514b2129ec393a59b9418457"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~mtl_t5_wpn_zmb_freezegun_ao~7355952a.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~mtl_t5_wpn_zmb_freezegun_ao~7355952a.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "99a40bf025c17b50bcac43fad3ed0435ceffc64bf89fea7c9eeda80a67f82efb"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~mtl_t5_wpn_zmb_thundergun_ao-rgb&~12c9c97d.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~mtl_t5_wpn_zmb_thundergun_ao-rgb&~12c9c97d.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "6a4537e8455402eb4e09147375cd95883f5c41918a7efc9d39386fb67aa0c6f1"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~mtl_t6_attach_optic_acog_ir-~7e71dd1a.iwi",
+    "status": "ok_fmt13_mips1_flags3",
+    "dds_path": "textures_dds/mod_00/images/~mtl_t6_attach_optic_acog_ir-~7e71dd1a.dds",
+    "dds_size": 1152,
+    "dds_sha256": "0dfa6195f4d00c57532e11f0b2256f808b45f1de34e9a274b1ef06cd6414b6dc"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~mtl_t6_wpn_smg_peacekeeper_a~44e893c3.iwi",
+    "status": "ok_fmt11_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~mtl_t6_wpn_smg_peacekeeper_a~44e893c3.dds",
+    "dds_size": 174904,
+    "dds_sha256": "072b6008a8323ba367d6c35ccb48f6adbcf3c0c33a9753db68a8acbb697cb355"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~mtl_t6_wpn_smg_peacekeeper_i~186faa3b.iwi",
+    "status": "ok_fmt11_mips7_flags0",
+    "dds_path": "textures_dds/mod_00/images/~mtl_t6_wpn_smg_peacekeeper_i~186faa3b.dds",
+    "dds_size": 2872,
+    "dds_sha256": "e8903729c19ff8de6ab87d04fcfb63817b90356d6103f25fb15ac86c99c959b0"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gblood_spatter01_spc-rgb&~~7af49d1a.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gblood_spatter01_spc-rgb&~~7af49d1a.dds",
+    "dds_size": 5616,
+    "dds_sha256": "9ab4d466d76da86d4963159648ca96f591ebba05d5c48bf9e2207e067aa4f10b"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gblood_spatter02_spc-rgb&~~293aad4f.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gblood_spatter02_spc-rgb&~~293aad4f.dds",
+    "dds_size": 5616,
+    "dds_sha256": "4e8bd4dcdfe417f5cca57c22c43e12a05fc8cdb1c2d90e636411302b9eab5b8a"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gblood_spatter03_spc-rgb&~~ce8e5fb2.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gblood_spatter03_spc-rgb&~~ce8e5fb2.dds",
+    "dds_size": 5616,
+    "dds_sha256": "b26a699969ac187c889ce3a8b95ed032a5f35f6df8c1e36f1dfe124c3162e812"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_blueice_spc-rgb&~-~d9768188.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_blueice_spc-rgb&~-~d9768188.dds",
+    "dds_size": 16777344,
+    "dds_sha256": "6cfdc4c638f32a768b3b2ff3b539c56de8a33968fa4a82f95cae6b976a5f2b45"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_blue_spc-rgb&~-rca~6d23e47b.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_blue_spc-rgb&~-rca~6d23e47b.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "063d85636bba2b0a272ce818cac6ba66e5758b3050e3ab00d4a49cbd40f450ac"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_crystallize_spc-rgb&~-~d9768188.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_crystallize_spc-rgb&~-~d9768188.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "06448b6cbb1766ce59d271e41b472df702a25d2d850e95f1852c431bba536e58"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_cyberpunk_spc-rgb&~-~d9768188.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_cyberpunk_spc-rgb&~-~d9768188.dds",
+    "dds_size": 262272,
+    "dds_sha256": "a326557d9d300b2c3fefb5e5053f75d525792f406fede219d414f214a4087905"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_darkmatter_spc-rgb&~-rca~6d23e47b.iwi",
+    "status": "ok_fmt11_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_darkmatter_spc-rgb&~-rca~6d23e47b.dds",
+    "dds_size": 174904,
+    "dds_sha256": "275df33436a9e465ecaafe0b4a06ec02853862aa661a237041acced9db184bbb"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_dragon_spc-rgb&~-rca~6d23e47b.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_dragon_spc-rgb&~-rca~6d23e47b.dds",
+    "dds_size": 262272,
+    "dds_sha256": "2dab0b693222ada0129e6e9b0b7b794468f1297a4534d5e8574dfcf67dce7e82"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_gold_spc-rgb&~-rcamo~051392e5.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_gold_spc-rgb&~-rcamo~051392e5.dds",
+    "dds_size": 22000,
+    "dds_sha256": "6d0bd5410984c8e31dc0ee1128e86ae9046634085ddcebf279e00923efba4bef"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_interstellar_spc-rgb&~-rca~6d23e47b.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_interstellar_spc-rgb&~-rca~6d23e47b.dds",
+    "dds_size": 131200,
+    "dds_sha256": "7cb1e21a8900e431f55b3121fba99619a35b897400b086ac02edc1d871b1ff52"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_lightning_spc-rgb&~-~d9768188.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_lightning_spc-rgb&~-~d9768188.dds",
+    "dds_size": 262272,
+    "dds_sha256": "d4d57f84f7727b87780a09ab75f095f93ef50fe54fb76a6832c202207a93960a"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_blast_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_blast_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "88e8847e812e3cc1dd719ce5c0f30790723a2d39c98f69b5110db960b10e122f"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_blossom_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_blossom_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "dd2ab778ffd991ac6bd5f32a84dab5ef4f00189bcf08ea0167c8e26dba29cafb"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_bo1_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_bo1_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 131200,
+    "dds_sha256": "79f5b7ccfc106b8e997760a4acb21b11ee2fcb8750b54f363da5a2dea5de430f"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_bx7_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_bx7_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 131200,
+    "dds_sha256": "7d7e13dc585a0c2c55d9b4189d9f24c2fb14e302d883919643bd322709d3ab0c"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_cherryfizz_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_cherryfizz_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "9e23be6d38f90358316435493fd93e4e23c6cc098b50e254878f2b1a3e060cf2"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_cosmic_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_cosmic_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "2118d91fd236020f88266c3e6fe4b4a7941392c4157b96d31e371424e06bed82"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_dlc2_alt_spc-rgb~805ae131.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_dlc2_alt_spc-rgb~805ae131.dds",
+    "dds_size": 16512,
+    "dds_sha256": "c4ef05b21ecc1045e402f837c86582e0c1a2180f168d21b6539e14d7c571b268"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_dlc2_alt_zoom_spc-rgb~805ae131.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_dlc2_alt_zoom_spc-rgb~805ae131.dds",
+    "dds_size": 16512,
+    "dds_sha256": "c4ef05b21ecc1045e402f837c86582e0c1a2180f168d21b6539e14d7c571b268"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_dlc2_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_dlc2_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 349680,
+    "dds_sha256": "21af017ea0fa7debb7d4fbb19f85a3cabd62826f895a17288da8b26446a339f9"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_dlc4_alt_spc-rgb~fc3ae34a.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_dlc4_alt_spc-rgb~fc3ae34a.dds",
+    "dds_size": 349680,
+    "dds_sha256": "ae866a7147ad46b3e3695307182eb939d0e5b5b4472859d6f736179f160bfe5c"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_dragonscale_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_dragonscale_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 131200,
+    "dds_sha256": "58924d366d2cb6585e7306fdfbcbabd50818958d58c0ce99f320fe5b137e1ffc"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_gold_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_gold_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 131200,
+    "dds_sha256": "e391f6e52c3baaab4a75262c98bb246c18a02a95128d6fd8feb56ea87f52b30a"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_mystic_spc-rgb&~-r~471adc2.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_mystic_spc-rgb&~-r~471adc2.dds",
+    "dds_size": 349680,
+    "dds_sha256": "ba2d58cfb48c47d589b393cbff4b2f6e25aebd8ece3fc6afba6df83a9c687212"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_mystic_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_mystic_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "e8b93cadd8bd637db99ee9e0db060494cbd5d2d0f65998f0f3902c7e5b060096"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_psychodelic_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_psychodelic_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "c8ad2450843613e0918cfb2635d1fbde86a4462867cc55094deade88ce0fd2b4"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_purpleroyalty_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_purpleroyalty_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 131200,
+    "dds_sha256": "b9d42a613caaa2a60eb32d51aec88d52f39680f05037654040820610c209e64b"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gcamo_zmb_vip_spc-rgb&~-r~471adc2c.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gcamo_zmb_vip_spc-rgb&~-r~471adc2c.dds",
+    "dds_size": 349680,
+    "dds_sha256": "e6f555c44284f66bee885cbd47ca1141c47a99a2fd4bd936749a2a3daffc8404"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gc_zom_player_cdc_body_s-r~6380ed7b.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gc_zom_player_cdc_body_s-r~6380ed7b.dds",
+    "dds_size": 349680,
+    "dds_sha256": "f02a8d7db98e47395043a176e6395ec3320db768f95cf8d18e8b8ac6005b62a1"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gc_zom_player_cdc_comandma~4b2fd433.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gc_zom_player_cdc_comandma~4b2fd433.dds",
+    "dds_size": 524416,
+    "dds_sha256": "5cb1970ae850ad6584f2ac7b76711f6f0504c327a585098e879662f6bfbd29f9"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gc_zom_player_cdc_gear_s-r~8830d54e.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gc_zom_player_cdc_gear_s-r~8830d54e.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "4eae6b97bc1c4c76be236b6fe91f9fea2c99b39974960c2d4e457567ac761607"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gc_zom_player_cdc_visor_s-~341fa3be.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gc_zom_player_cdc_visor_s-~341fa3be.dds",
+    "dds_size": 8320,
+    "dds_sha256": "8e586d4113afee0630a3bf59845775a8d44f0e2263e47df2eaa36cb1c7567ab5"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gfx_bullet_chain_spc-rgb&~~cf27f2d4.iwi",
+    "status": "ok_fmt13_mips1_flags3",
+    "dds_path": "textures_dds/mod_00/images/~~-gfx_bullet_chain_spc-rgb&~~cf27f2d4.dds",
+    "dds_size": 2176,
+    "dds_sha256": "9a332f4c5f646d0232e5ea5b10314e2c4b436036251b4fbb80651a32f10e118e"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-glimbs_s-rgb&~-rlimbs_g&limbs_n-l.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-glimbs_s-rgb&~-rlimbs_g&limbs_n-l.dds",
+    "dds_size": 349680,
+    "dds_sha256": "cc26146b078bd68aa4b284598d77b3a39e9edfd599dde234bb4de87729d10c1f"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t5_attach_optic_acog_lens_spc-rg~bcbe31aa.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t5_attach_optic_acog_lens_spc-rg~bcbe31aa.dds",
+    "dds_size": 87536,
+    "dds_sha256": "5ef20bff122f936291987e22bc704b641d8c3fccf471a4b0a01653af4d6de8af"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t5_wpn_zmb_freezegun_ammo_spc~f935eb67.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t5_wpn_zmb_freezegun_ammo_spc~f935eb67.dds",
+    "dds_size": 349680,
+    "dds_sha256": "34920d1afc07bda7b673e98b24f23afa3cdad0a0f33b7aa2c82ed564632fffd8"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t5_wpn_zmb_freezegun_spc~c1b92726.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t5_wpn_zmb_freezegun_spc~c1b92726.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "68e695b764fc1aee139ec902e1815691ab485b3d7098459831f430b87f7afd7d"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t5_wpn_zmb_thundergun_chamber_glass_spc~cdf07f01.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t5_wpn_zmb_thundergun_chamber_glass_spc~cdf07f01.dds",
+    "dds_size": 22000,
+    "dds_sha256": "71d5509930709edf54dc8454d00a4ed5e888a996d4bbba8884a4b445c67aa67c"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t5_wpn_zmb_thundergun_spc~3382cf4c.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t5_wpn_zmb_thundergun_spc~3382cf4c.dds",
+    "dds_size": 349680,
+    "dds_sha256": "903b2d83d46fb0feacbcced36bccac2d4d31873ded748c2bd8664d6ae237105e"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_attach_bullet_spc-~81d1624d.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_attach_bullet_spc-~81d1624d.dds",
+    "dds_size": 65664,
+    "dds_sha256": "6e5d0be28735a44f324f15b06a6d5491ce293e4184b6b61a27fb180fef756cb3"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_pistol_m1911_s~5546ff61.iwi",
+    "status": "ok_fmt1_mips1_flags3",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_pistol_m1911_s~5546ff61.dds",
+    "dds_size": 4224,
+    "dds_sha256": "ddbff3bddfb5c36d75fd76c893957f9298854f2fb04a3dd54ddfaa55a7e04dd1"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_smg_peacekeepe~89c87a47.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_smg_peacekeepe~89c87a47.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "808b548595c9080e0bc57b93cad9238930b48f8e8773275911c6c2e14e1a1c20"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_zmb_staff_crystal_camo_e_azul.iwi",
+    "status": "ok_fmt11_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_zmb_staff_crystal_camo_e_azul.dds",
+    "dds_size": 699192,
+    "dds_sha256": "18732ea8bb06530986a3161d881e6225dccc08c843e0bb27df74eb01cda0e143"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_zmb_staff_cryst~5094c494_branco.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_zmb_staff_cryst~5094c494_branco.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "f51f0df746c7a6c96f4bf485f2045d4a9a7393319dc2648b8ef1839cd17a0192"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_zmb_staff_cryst~95c3e639_branco.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_zmb_staff_cryst~95c3e639_branco.dds",
+    "dds_size": 583328,
+    "dds_sha256": "d6b78e15b4e365a2219f8062bb2284621a61b03d06f30b063e44916b8c751131"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_zmb_tesla_camo1_spc.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_zmb_tesla_camo1_spc.dds",
+    "dds_size": 87536,
+    "dds_sha256": "980606b234223b4f60d11b09f42503ee38725ab653588df8e1f7d2b41ef8b70e"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_zmb_tesla_camo_spc-~eb721e35.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_zmb_tesla_camo_spc-~eb721e35.dds",
+    "dds_size": 87536,
+    "dds_sha256": "72ff06e7fdbc4c3f7f74c1c9dafda9a54554afc0317bc15761bb4d3ef9453f79"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_zmb_tesla_cham~99fcd2ac.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_zmb_tesla_cham~99fcd2ac.dds",
+    "dds_size": 22000,
+    "dds_sha256": "520efcb87be18e731b8a2e2eb9cf132086b212124043136c0192dc52ff14bd41"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_zmb_tesla_glass_spc~62bebb06.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_zmb_tesla_glass_spc~62bebb06.dds",
+    "dds_size": 22000,
+    "dds_sha256": "519fd1797dffffd7a00581afc9126bbe2f164ebc3044981cf107ca705ac0f73d"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_zmb_tesla_glass_spc~64cd391d2.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_zmb_tesla_glass_spc~64cd391d2.dds",
+    "dds_size": 22000,
+    "dds_sha256": "519fd1797dffffd7a00581afc9126bbe2f164ebc3044981cf107ca705ac0f73d"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_zmb_tesla_vacu~166fb31d.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_zmb_tesla_vacu~166fb31d.dds",
+    "dds_size": 349680,
+    "dds_sha256": "10c4c4025e2ed5f6014fc5e42dcabca71dd21a8f2f964367824f7cb96c4076dd"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_zmb_tesla_vacu~5fec4f07.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_zmb_tesla_vacu~5fec4f07.dds",
+    "dds_size": 349680,
+    "dds_sha256": "10c4c4025e2ed5f6014fc5e42dcabca71dd21a8f2f964367824f7cb96c4076dd"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gmtl_t6_wpn_zmb_tesla_vacu~72d2f6ee.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_zmb_tesla_vacu~72d2f6ee.dds",
+    "dds_size": 349680,
+    "dds_sha256": "10c4c4025e2ed5f6014fc5e42dcabca71dd21a8f2f964367824f7cb96c4076dd"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-grus_ter_ice_clear_c-rgb&~~1ebc1933.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-grus_ter_ice_clear_c-rgb&~~1ebc1933.dds",
+    "dds_size": 87536,
+    "dds_sha256": "8d4de379dcf89e543c1f68f71131a06e08198a91aa5b54b1bcce06123b57a915"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-grus_ter_ice_slush_s-rgb&~~b3589a45.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-grus_ter_ice_slush_s-rgb&~~b3589a45.dds",
+    "dds_size": 349680,
+    "dds_sha256": "1a5f4989a3e715f876f47a65d8cb24749480452706456a6798e4e6d4edfc0adf"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/~~-gzombie_teleporter_glow_s-~8caca090.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_00/images/~~-gzombie_teleporter_glow_s-~8caca090.dds",
+    "dds_size": 22000,
+    "dds_sha256": "3040ec2ee4d5c818149a31d2e784f0fd4d88bf77f56d84d2b4cd5a19d9159fee"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/i_p7_zm_zod_bubblegum_machine_light_bulb_e.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_light_bulb_e.dds",
+    "dds_size": 349680,
+    "dds_sha256": "97da532f9fbb798fad59b6980900bf1f972d92cf79e27e7bd7c57190b0950629"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/i_p7_zm_zod_bubblegum_machine_n.iwi",
+    "status": "ok_fmt14_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_n.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "48933d74cc95d21dfc664efc58923c2d9027dcb83ae4987d09adebcdd9febd43"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/i_p7_zm_zod_bubblegum_machine_red_c_rgb.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_red_c_rgb.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "fc343b6687552f09364e800503539b63b852b4987cddfb14663f726bd02b2a52"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/i_p7_zm_zod_bubblegum_machine_red_n.iwi",
+    "status": "ok_fmt14_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_red_n.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "5a002c5b8f4087ca0215ff87b01a2c5b9921b87222e0ed36646494019764d6cd"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/i_p7_zm_zod_bubblegum_machine_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "a995997441e3bce0dcf74443fa04b5c360903eb0f3650b3a27f60dc92e1c450a"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/mtl_p7_zm_zod_bubblegum_machine_nickel_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/mtl_p7_zm_zod_bubblegum_machine_nickel_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "80b81c28e116ba20dbcf7742590a02c5582ff36cac4b9416e202218b7c4b4372"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/mtl_p7_zm_zod_bubblegum_machine_nickel_spcrgb.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/mtl_p7_zm_zod_bubblegum_machine_nickel_spcrgb.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "919538cb32ac3be3d5e02b9bc235ba0af50552c8e34c53fc3fdab2fdffe40642"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/i_p7_zm_zod_bubblegum_machine_c.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_c.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "e7a70e62465cfada9880ac8d33c03a87ff38aed1617a4613a003a23c44a9a796"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/i_p7_zm_zod_bubblegum_machine_decal_c.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_decal_c.dds",
+    "dds_size": 349680,
+    "dds_sha256": "da360b606f53e92f62ede44f92b648644ba197f32b7b4adbfeb77246865e8367"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/i_p7_zm_zod_bubblegum_machine_decal_n.iwi",
+    "status": "ok_fmt14_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_decal_n.dds",
+    "dds_size": 349680,
+    "dds_sha256": "03f3f8962b066e887a2b98c74ee48d246b8cc26e444a17b24918cc5636c3cc4a"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/i_p7_zm_zod_bubblegum_machine_glass_c.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_glass_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "dfb3825ebf4c959909413b7a8fda9a4b49b11256b9dcd6b60bde04000895ea99"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/i_p7_zm_zod_bubblegum_machine_glass_n.iwi",
+    "status": "ok_fmt14_mips11_flags0",
+    "dds_path": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_glass_n.dds",
+    "dds_size": 699216,
+    "dds_sha256": "69e28f06a558888acd3084224dfba007fb7ccb35317c8a1a4d613be52e11489a"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/i_p7_zm_zod_bubblegum_machine_light_bulb_c.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_light_bulb_c.dds",
+    "dds_size": 349680,
+    "dds_sha256": "45c8363b8c844c9f5cbc693c869c6305295d21774a922859ccc0f08a9d242000"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/aiuzy.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/aiuzy.dds",
+    "dds_size": 131200,
+    "dds_sha256": "0b72a2421d8ed30c9ff0253d9bfb796c19afadd6e0c354372eec39ed858b9022"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Bielslayerx.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Bielslayerx.dds",
+    "dds_size": 131200,
+    "dds_sha256": "ae1cfc57513437c2b6d818214b366557062e3ae1abe6e24f157dd1cb6f8f9c9a"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/discord_qr.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/discord_qr.dds",
+    "dds_size": 405128,
+    "dds_sha256": "7c516786a6be5b8829aede2ed0ff72f02ce899f0f3ef4970d2009a11d6e07eb9"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Guilh.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Guilh.dds",
+    "dds_size": 131200,
+    "dds_sha256": "0ce0abcbc9b1f07e605f4a3a77794612926b1a4906f1c7e3dee61f3912bfe8ee"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/is_calling.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/is_calling.dds",
+    "dds_size": 131200,
+    "dds_sha256": "87382b9c9b784f68e81817532d3f5dc7deca5699bf40c54f210ae98fd108decd"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/misty.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/misty.dds",
+    "dds_size": 131200,
+    "dds_sha256": "2ae9eb356e2176224ef1fd6d7221a073218d5c71e2616f9d6ce93772e76ab0ff"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/plfr_matrix_header.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/plfr_matrix_header.dds",
+    "dds_size": 131200,
+    "dds_sha256": "40b0a7ce6bb323db9a16195da9d6bc4bc158d55d4f654b27f7b72d1ab3258993"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/plfr_void_nebula.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/plfr_void_nebula.dds",
+    "dds_size": 2097280,
+    "dds_sha256": "56302576c46f81cd2e3c3aa71dda7b06a4a12b7fc89719a07c5e43d422f322f4"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/pro7xt.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/pro7xt.dds",
+    "dds_size": 131200,
+    "dds_sha256": "cea3d1e6f72a98409450bf8e4d44ee9c58d104c0d8d0db14c7e47accc4e49114"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Buried.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Buried.dds",
+    "dds_size": 131200,
+    "dds_sha256": "6cb86926f499456677c530b4269422350be711be728eaae7c9a46ddd6d803ff9"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/BUS_DEPOT.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/BUS_DEPOT.dds",
+    "dds_size": 131200,
+    "dds_sha256": "03feed0b862198c074045a665ffda81a8d0bb7934995fb295e53b5ad263c7dee"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Crazy_place.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Crazy_place.dds",
+    "dds_size": 131200,
+    "dds_sha256": "c1c9b89f3f06161486431ea045102a2738d1a34812b42533324b1e3663d4818f"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Die_rise.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Die_rise.dds",
+    "dds_size": 131200,
+    "dds_sha256": "c65ba5a479cf3569bc3e0c1a171ed946f95c9460d421d1eff95e1c4b632a46cc"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Diner.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Diner.dds",
+    "dds_size": 131200,
+    "dds_sha256": "0a636d12737151c05e58defb787e479d6a0f0862148c54eb06ea2f21bf441613"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Farm.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Farm.dds",
+    "dds_size": 131200,
+    "dds_sha256": "acfed2fcee8e3e6521ae33b4996099fd321160a3a72cd16df90996d15790da30"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/icone_players.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/icone_players.dds",
+    "dds_size": 786560,
+    "dds_sha256": "500cae384ef62f3c2c21692b6fb94f9e42e690fa07a4c955245cc5d5fd6a34ab"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Mob.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Mob.dds",
+    "dds_size": 131200,
+    "dds_sha256": "68ef1e14d80dea1e8291b4f3b2bc536ab2a714427cfd4f48e18bb0d284f2a875"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Nacht.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Nacht.dds",
+    "dds_size": 131200,
+    "dds_sha256": "c6be3aadc146055021949afe8e26f6231255a9b3ed15d37f02abc3c629c425b7"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Nuketown.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Nuketown.dds",
+    "dds_size": 131200,
+    "dds_sha256": "fe4915c83e3a2e6e16a0014c65ae7aeb2501c80c5555415dc7c44525b1629046"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Origins.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Origins.dds",
+    "dds_size": 131200,
+    "dds_sha256": "49b82abc5bde1698eb9dd7a283171af546bb39c86bb0a8b8087d1fccc5d41217"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/rounds.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/rounds.dds",
+    "dds_size": 131200,
+    "dds_sha256": "4774dd5edc401dfb0cdbe7b2761914d555c5d95b6476b2232fcaccca48e6e283"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Town.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Town.dds",
+    "dds_size": 131200,
+    "dds_sha256": "3d7ff79f03a6180028a8644614a303b08396f0ed87d009c50b0c5efecbb0a58c"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Town2.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Town2.dds",
+    "dds_size": 131200,
+    "dds_sha256": "3d7ff79f03a6180028a8644614a303b08396f0ed87d009c50b0c5efecbb0a58c"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Tranzit.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Tranzit.dds",
+    "dds_size": 131200,
+    "dds_sha256": "b90e6978c45c23b643bc6e2a8827a83a2365ade7af79a1760f5e985f310fb3df"
+  },
+  {
+    "iwd": "mod_00.iwd",
+    "source": "images/Tunnel.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_00/images/Tunnel.dds",
+    "dds_size": 131200,
+    "dds_sha256": "bdba1d136848f131aa2eb682b102534270f3e866a6b75e91981c6d7c85222819"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/blood_spatter01_nml.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/blood_spatter01_nml.dds",
+    "dds_size": 22000,
+    "dds_sha256": "9b2272c4f59432bf7061ec4b484ab322c86eae08e1a5567063ff347e54a0e3a8"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/blood_spatter02_nml.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/blood_spatter02_nml.dds",
+    "dds_size": 22000,
+    "dds_sha256": "c426408eb11820f0e152e361375128cb2c9d2980c70b0fe43d9194c8fc824f43"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/blood_spatter03_nml.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/blood_spatter03_nml.dds",
+    "dds_size": 22000,
+    "dds_sha256": "39292747b26dea1ac5079d259579f31127e1e81e1e33126f7c3b5c3ad90386e1"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_blueice_glow.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_blueice_glow.dds",
+    "dds_size": 16777344,
+    "dds_sha256": "70c2f2959d8c801adf9156b37d165bbaa51622954c094fc33ffc16aa533f4dda"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_blueice_heat.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_blueice_heat.dds",
+    "dds_size": 4194432,
+    "dds_sha256": "8c582a7fe707df3345cbc7b48e0df70667af23e20c4e46d9a59297b2b9509e97"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_blueice_nml.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_blueice_nml.dds",
+    "dds_size": 16777344,
+    "dds_sha256": "ce1f12ae3d6ec7bf6de733330ecfe8fa3edd48ed339869d806e41f0c142f74a9"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_blueice_reveal.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_blueice_reveal.dds",
+    "dds_size": 16777344,
+    "dds_sha256": "2df3d834db986c92a46801750095f48ee3105d027c9252c4b472fff7be8216c4"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_blue_ember.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_blue_ember.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "ea810d10d86a2bd0dc26588cf41cf633bebc847727a1fb93115438a1826ca8a5"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_blue_heat.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_blue_heat.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "ea810d10d86a2bd0dc26588cf41cf633bebc847727a1fb93115438a1826ca8a5"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_blue_nml.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_blue_nml.dds",
+    "dds_size": 262272,
+    "dds_sha256": "649173bd901cb93599b5224eb37d8be0af7edc4376940e4f1efed898e6c63506"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_blue_reveal.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_blue_reveal.dds",
+    "dds_size": 4194432,
+    "dds_sha256": "8964aabb60454d83b35c5cbeaa7ef61b2c865f264099bd6ca21127a77b566801"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_code_nml.iwi",
+    "status": "ok_fmt13_mips6_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_code_nml.dds",
+    "dds_size": 1520,
+    "dds_sha256": "a12457b405165647e7e2a398d484e1774255ec357b3abbbac565e2dfba0f4cb9"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_crystallize_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_crystallize_ember.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "3da00b00d5b8d8f79de1487240577e1bf99391fbf828b279bf7aa901af13c488"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_crystallize_glow.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_crystallize_glow.dds",
+    "dds_size": 131200,
+    "dds_sha256": "7bddcf938a3f07a026058a16b7201c6b8890adaaf8a91b68de132f5ac3748136"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_crystallize_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_crystallize_heat.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "3da00b00d5b8d8f79de1487240577e1bf99391fbf828b279bf7aa901af13c488"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_crystallize_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_crystallize_nml.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "5a51a97f46f4a5ae97aa65c08d364aaad63576a15076d59f72f18e6c39313713"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_crystallize_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_crystallize_reveal.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "72864a923cfb5009bb4552a8b2f34c1df3fe701318ee1fef1e71aeacbfeb3b28"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_cyberpunk_glow.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_cyberpunk_glow.dds",
+    "dds_size": 87536,
+    "dds_sha256": "83e28a29eb737cc44c29a5604062468eb1065f71af596f04b003a290a6be7399"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_cyberpunk_heat.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_cyberpunk_heat.dds",
+    "dds_size": 65664,
+    "dds_sha256": "347edb4cb8a865c038a8d6c14d98fb3fbad1ac1c0b32626e8f57eb2aee556f52"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_cyberpunk_reveal.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_cyberpunk_reveal.dds",
+    "dds_size": 262272,
+    "dds_sha256": "5149641f34850fe3465b4798786a3442c587aa95f065c697ccaed3f33d8194db"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_darkmatter_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_darkmatter_nml.dds",
+    "dds_size": 524416,
+    "dds_sha256": "0b0830bd08229d543f78704db765bf74aa6326938e26057c5b781b26545401d9"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_darkmatter_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_darkmatter_reveal.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "c2a969abaf8bd2417f6ad3b099bad1357dd42a159b5724166ffb51319005079e"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_dragon_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_dragon_ember.dds",
+    "dds_size": 405128,
+    "dds_sha256": "aba836f59951d6895f809a1560d6e4aa52fe807cd4daaa62343d3292972bcbce"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_dragon_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_dragon_heat.dds",
+    "dds_size": 405128,
+    "dds_sha256": "aba836f59951d6895f809a1560d6e4aa52fe807cd4daaa62343d3292972bcbce"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_dragon_nml.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_dragon_nml.dds",
+    "dds_size": 810128,
+    "dds_sha256": "4f8fa6afa095127a4a8590747b6f4e661d637517d5767c3eb2c54b635a5d27a7"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_dragon_reveal.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_dragon_reveal.dds",
+    "dds_size": 16777344,
+    "dds_sha256": "d05bda6d8b7fac30225049277a249a59b4b0a2ed7d47e78080290ea409964a31"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_gold_nml.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_gold_nml.dds",
+    "dds_size": 22000,
+    "dds_sha256": "e216b9839e77d22f7da443fec90b132810a2bc85fe5d577f29cf2a0b5d67a128"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_interstellar_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_interstellar_nml.dds",
+    "dds_size": 131200,
+    "dds_sha256": "f472f1e0ee4d42cefcf189e06c2fb26800a2f79aee87296667b99e6856047428"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_interstellar_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_interstellar_reveal.dds",
+    "dds_size": 131200,
+    "dds_sha256": "6410c079524fa5f42d399bbe2cbbd91ddc8035a3704d5647467d937cfdf32907"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_lightning_glow.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_lightning_glow.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "1b0759506bcd1fd28163d13303a2ec0be300e1dd9850d4a6d55588a6c22c44f5"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_lightning_nml.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_lightning_nml.dds",
+    "dds_size": 262272,
+    "dds_sha256": "41707c4745bd994bf56f708062b8a8601c5e049d65667d44766ea8d39d702ed9"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_lightning_reveal.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_lightning_reveal.dds",
+    "dds_size": 262272,
+    "dds_sha256": "1ab4eb7d7f6a298eff2485c3bb557a1e54c891637531691e8450bf479a8887f3"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_mtx4_octane_alt.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_mtx4_octane_alt.dds",
+    "dds_size": 65664,
+    "dds_sha256": "412d8eabbc334ea74d16979134be902a15580a7200f9651ec8e76f4d2eb9ca68"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_off_pattern.iwi",
+    "status": "ok_fmt13_mips5_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_off_pattern.dds",
+    "dds_size": 496,
+    "dds_sha256": "3c2e8d591adbca4f7d4a949d061d10d7960e06810eded031bb1e271f4b5d4e8e"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_off_solid.iwi",
+    "status": "ok_fmt13_mips5_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_off_solid.dds",
+    "dds_size": 496,
+    "dds_sha256": "3c2e8d591adbca4f7d4a949d061d10d7960e06810eded031bb1e271f4b5d4e8e"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_packapunch_c.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_packapunch_c.dds",
+    "dds_size": 349680,
+    "dds_sha256": "37a23b6a5b667daa7702f6e1dcc02ca8e570a547a69c349e5d1922a5f355ba26"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_packapunch_env.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_packapunch_env.dds",
+    "dds_size": 349680,
+    "dds_sha256": "a93aa878e2803119f75a99fa14809c6346a6a65200e20c1867ac2e80a55c935c"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_packapunch_spec.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_packapunch_spec.dds",
+    "dds_size": 349680,
+    "dds_sha256": "3df721480057de67ab0bf850eba5861d957a3f07ecda56c939915ec6faf605b5"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_blast_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_blast_ember.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "aab3e9c040ae7c69e86a3d07f4428bf2572434e3cc298c8e3907bcfcc5cb96e6"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_blast_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_blast_heat.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "aab3e9c040ae7c69e86a3d07f4428bf2572434e3cc298c8e3907bcfcc5cb96e6"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_blast_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_blast_nml.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "8c856552449b6257230442dfd05f0c4085e2f1f8496d15bf630a1a786480f57b"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_blast_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_blast_reveal.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "7bbeeeaa5b465be8ac258fbbf54685f4892fc56a2e58fa3e0895172bd8056011"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_blossom_ember.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_blossom_ember.dds",
+    "dds_size": 262272,
+    "dds_sha256": "1e1b4df7360003cbacc6852bf45b03c43a1bd18901a6b58afc64ddc6125eb9a9"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_blossom_heat.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_blossom_heat.dds",
+    "dds_size": 262272,
+    "dds_sha256": "93cf42278f760128feb092395b6dca6659b7e285e1aaf1d70a6a753eccc6ee1e"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_blossom_nml.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_blossom_nml.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "93301c29f2db48b78da80fef65f217e0ebb7490a791fdb0d713022e54bff07de"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_blossom_reveal.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_blossom_reveal.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "e04e4c3224a1a8291d1916830764e3cba1e12decd00ec5e0e1e1414190e18398"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_bo1_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_bo1_ember.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_bo1_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_bo1_heat.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_bo1_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_bo1_nml.dds",
+    "dds_size": 524416,
+    "dds_sha256": "2343144b7efde8a4cbbdc19dbb57c550033a6ade72ac6cea41c677c02e5f1fbf"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_bo1_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_bo1_reveal.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_bx7_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_bx7_ember.dds",
+    "dds_size": 131200,
+    "dds_sha256": "7d7e13dc585a0c2c55d9b4189d9f24c2fb14e302d883919643bd322709d3ab0c"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_bx7_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_bx7_heat.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8eb047379b8db24e06eff80e9c824ae70a579dce5806782a73e6e2580d5226f3"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_bx7_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_bx7_nml.dds",
+    "dds_size": 131200,
+    "dds_sha256": "7d7e13dc585a0c2c55d9b4189d9f24c2fb14e302d883919643bd322709d3ab0c"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_bx7_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_bx7_reveal.dds",
+    "dds_size": 131200,
+    "dds_sha256": "7d7e13dc585a0c2c55d9b4189d9f24c2fb14e302d883919643bd322709d3ab0c"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_cherryfizz_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_cherryfizz_ember.dds",
+    "dds_size": 524416,
+    "dds_sha256": "ffe0d54e15442b1f33ad44d33f3e68b1b6796dc57f69bc09efc7bfb3974816c2"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_cherryfizz_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_cherryfizz_heat.dds",
+    "dds_size": 131200,
+    "dds_sha256": "6e7ed6a3719c57e5ef3d3ec37894fe39cf9f76b35a444fc2fb5dafa914a414ec"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_cherryfizz_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_cherryfizz_nml.dds",
+    "dds_size": 524416,
+    "dds_sha256": "da6b1ae439cd731460d634651f1cb753477a62767a224cf750506b1344f9ba19"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_cherryfizz_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_cherryfizz_reveal.dds",
+    "dds_size": 524416,
+    "dds_sha256": "da6b1ae439cd731460d634651f1cb753477a62767a224cf750506b1344f9ba19"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_cosmict_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_cosmict_ember.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "eb86ebfbf6f45cc522ccab4aadf5753e2b824697518a2c6a792b672c14ccaf78"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_cosmic_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_cosmic_ember.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "28c817ece79d6d4bf275ecdd3bf2a0eabf8cf648f5683eac90a93dcba04dd711"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_cosmic_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_cosmic_heat.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "28c817ece79d6d4bf275ecdd3bf2a0eabf8cf648f5683eac90a93dcba04dd711"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_cosmic_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_cosmic_nml.dds",
+    "dds_size": 131200,
+    "dds_sha256": "f4ece080bdcfcc3232852b020340b7ba3d65cb10f5b9bfd1f4db7e1cf5c7c0b1"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_cosmic_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_cosmic_reveal.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "7dd88ab057fd8d32e657d701fb9ab3981b49d84e7d33ae58be63ebd93930aa12"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_dlc2_alt_nml.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_dlc2_alt_nml.dds",
+    "dds_size": 16777344,
+    "dds_sha256": "13de6dcaafa67c76f1f3b7bad5853dca0b557e934f2fa2700f5a8b6add25b0f1"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_dlc2_ember.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_dlc2_ember.dds",
+    "dds_size": 349680,
+    "dds_sha256": "dee7a99522eb96dae5cb130f267f658bee731603568f9933438c242b12d9c4da"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_dlc2_heat.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_dlc2_heat.dds",
+    "dds_size": 349680,
+    "dds_sha256": "e8ff73c3f165de3c20d5f58aab0857f51cfa8ba88b2c96d92e24d866de74649e"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_dlc2_nml.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_dlc2_nml.dds",
+    "dds_size": 349680,
+    "dds_sha256": "2d2985b515c3629fa467d495ada45b0c95e9657d9bb85d293905a4815800e0c9"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_dlc2_reveal.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_dlc2_reveal.dds",
+    "dds_size": 349680,
+    "dds_sha256": "064499680f2fba5a051a3390c6f5d65ec1df16c3afb67e5145426717090574e0"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_dlc4_alt_nml.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_dlc4_alt_nml.dds",
+    "dds_size": 349680,
+    "dds_sha256": "ced630fc8de159ce978aa130989501281011c2fc7b9ca7635ea5cc14157ef246"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_dragonscale_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_dragonscale_ember.dds",
+    "dds_size": 131200,
+    "dds_sha256": "ab15aa006f2b413b47586dc9db7731cc87d891f5187e8a438af662f0580e8233"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_dragonscale_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_dragonscale_heat.dds",
+    "dds_size": 131200,
+    "dds_sha256": "b7a43706178b99484fd2ad22d87314f8a95164873068e5b4a8475684cb538fd7"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_dragonscale_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_dragonscale_nml.dds",
+    "dds_size": 131200,
+    "dds_sha256": "778af4024f6837a18b99ee8d9644e7ba6e8848abf29644fc54a35f06d424d685"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_dragonscale_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_dragonscale_reveal.dds",
+    "dds_size": 131200,
+    "dds_sha256": "5b68e727df480349af1485de4b135e1c028a08a9dd1c7964db2d1de91f963b6b"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_gold_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_gold_ember.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_gold_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_gold_heat.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_gold_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_gold_nml.dds",
+    "dds_size": 524416,
+    "dds_sha256": "0c4b4a4c4cffb9d05e53da099868d908f55678d3668b80e76e7160614af875ec"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_gold_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_gold_reveal.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_mystic_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_mystic_ember.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "e8b93cadd8bd637db99ee9e0db060494cbd5d2d0f65998f0f3902c7e5b060096"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_mystic_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_mystic_heat.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "e8b93cadd8bd637db99ee9e0db060494cbd5d2d0f65998f0f3902c7e5b060096"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_mystic_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_mystic_nml.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "0056d6b3d22f079e1db34a9a0a071ab519aeb120f0daa638573d386435335430"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_mystic_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_mystic_reveal.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "5262b4bb56a5e39cc5cd5e534ca0e85f17af1b82536559c1412f3c345846b35c"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_psychodelic_ember.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_psychodelic_ember.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "d155068c5450790dd231d01e6f8d4951b3df7a37cf7b7eb69674405e454bbf9c"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_psychodelic_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_psychodelic_heat.dds",
+    "dds_size": 131200,
+    "dds_sha256": "56a154a8febc5225799855e20fecfca748cfd24ea7ecb710c1574c4f178a7c5c"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_psychodelic_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_psychodelic_nml.dds",
+    "dds_size": 524416,
+    "dds_sha256": "e93ee271189cb07538c75a90a183240d2e5860debbfdc2bbeadac1eb16882aad"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_psychodelic_reveal.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_psychodelic_reveal.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "bab2d73d628ce5c749090dfb1b20cddc1e573d062d02365852c5d502d8e131fd"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_purpleroyalty_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_purpleroyalty_ember.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_purpleroyalty_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_purpleroyalty_heat.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_purpleroyalty_nml.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_purpleroyalty_nml.dds",
+    "dds_size": 131200,
+    "dds_sha256": "84e06cec313f7482bb97c50ba1feffa2a0b8ad771a220ccc541b2268cb656c12"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_purpleroyalty_reveal.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_purpleroyalty_reveal.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8264d03d1429e64f8fae3445939520272792e457b81000f1b36a0adae6f42916"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_vip_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_vip_ember.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "96000821332ec501392865e64e35a6618075ca29f9962e6b98a12a23629f82fc"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_vip_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_vip_heat.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "96000821332ec501392865e64e35a6618075ca29f9962e6b98a12a23629f82fc"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_vip_nml.iwi",
+    "status": "ok_fmt13_mips12_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_vip_nml.dds",
+    "dds_size": 5592560,
+    "dds_sha256": "ee982f73cf8072894c2f2c2b03fe9305cc7bf12ab83cb4481f83e453f97dc55e"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/camo_zmb_vip_reveal.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_01/images/camo_zmb_vip_reveal.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "eeb24d7be1794f1d1ab5e4c70a08106a7d686960aa8d80e32f71bed38df926cc"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/clan_font_n.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/clan_font_n.dds",
+    "dds_size": 131200,
+    "dds_sha256": "17f0d661ab56773abd0c497a13c46c9786487e1ee03758acc0d67e5e024571e3"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/detail_noise_tight.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_01/images/detail_noise_tight.dds",
+    "dds_size": 16512,
+    "dds_sha256": "feb59392f96832d4e7315fe3dfa36f4d89e186ec37fe9f0fe6f59e161b0bc27d"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/emblem_clear.iwi",
+    "status": "ok_fmt13_mips1_flags3",
+    "dds_path": "textures_dds/mod_01/images/emblem_clear.dds",
+    "dds_size": 192,
+    "dds_sha256": "0b6b8b8356e9bba7f9f90e1e4a649595ff53b23a802f5cf79ad655a0ddc4c1a5"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_bio_bloodburst.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_bio_bloodburst.dds",
+    "dds_size": 87536,
+    "dds_sha256": "3e1af6783a5cd90ba46c8a956874cd8bb7c50bec5ca737542e7bca7a1731117e"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_bio_bloodburst_b.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_bio_bloodburst_b.dds",
+    "dds_size": 349680,
+    "dds_sha256": "bcc678ab24abe6f1fa5a930e3a15d017ef9469400761c86c716bee4d5961439e"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_bio_bloodburst_c.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_bio_bloodburst_c.dds",
+    "dds_size": 174928,
+    "dds_sha256": "ea192c6a6bc340643bf45c2903cdae15ce58c0cdc3de9200594c371e197d531e"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_bio_blooddrops.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_bio_blooddrops.dds",
+    "dds_size": 87536,
+    "dds_sha256": "0bffa10dfd67ac80c98747da9d5c965c14fa5d4d496cd7035413ba5aef3087ef"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_bio_bloodgush.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_bio_bloodgush.dds",
+    "dds_size": 349680,
+    "dds_sha256": "81c2c3f1f51a1fb7db9e477c60cf3fc6115334eea6c98e6698d68c4ee2c076ad"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_bio_blood_cloud.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_bio_blood_cloud.dds",
+    "dds_size": 5616,
+    "dds_sha256": "5a61daa79884d97f4b0d4819159c41c6d8ec9bc9eca09fa7948a29a33db7a5c7"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_debris_clump.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_debris_clump.dds",
+    "dds_size": 174928,
+    "dds_sha256": "66889a9ec7e20658ec17b9b95013b90969f44b491ac4b9d12d085abfa1630ca9"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_debris_cottonpuff.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_debris_cottonpuff.dds",
+    "dds_size": 22000,
+    "dds_sha256": "ce5fd842d2a0b049153a316b4884a5bca8ec9b29d5f01f88de9d6f7389a426a5"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_debris_fine_clump.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_debris_fine_clump.dds",
+    "dds_size": 87536,
+    "dds_sha256": "a3b2e7e1ff995f58b33d96ce82dbd000fb5a454b3369f961070913d18ffec298"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_debris_gib_rock.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_debris_gib_rock.dds",
+    "dds_size": 22000,
+    "dds_sha256": "85bf2a5b127627981c84b5e339cb6b68a5b26598e21e2598dbab58e7e2184fa2"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_debris_ice.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_debris_ice.dds",
+    "dds_size": 22000,
+    "dds_sha256": "6f4eed5c61f78428cbf3342c01636eb922f6e0268b5df2abc06c45ad1552e64c"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_debris_plume_water.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_debris_plume_water.dds",
+    "dds_size": 174928,
+    "dds_sha256": "805838c365ceb8318b216513caac59bec47058dce020be80e6a37070f70b8fa0"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_dust_mote_pcloud_2.iwi",
+    "status": "ok_fmt13_mips6_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_dust_mote_pcloud_2.dds",
+    "dds_size": 1520,
+    "dds_sha256": "233def46af7f8100a524e08a5a3b6e81847a92346726557f18c7579928bbe01a"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_electric_arc1.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_electric_arc1.dds",
+    "dds_size": 87568,
+    "dds_sha256": "6322fdef90c7d65dcf7e3f5e04e71d197d6a584de8e180c8454b214fef3b241f"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_electric_arc2.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_electric_arc2.dds",
+    "dds_size": 87568,
+    "dds_sha256": "1344890ee320583b92f7d2627005ac8e9b0ad6aeb19f7ea5a61e22d753e292a0"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_lighting_bolt_ground.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_lighting_bolt_ground.dds",
+    "dds_size": 349680,
+    "dds_sha256": "9787a9120229a1e7dd110bce65b7b15cd3e128b6089d96a920b04088de40ff8d"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_lightning_bolt_air.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_lightning_bolt_air.dds",
+    "dds_size": 174928,
+    "dds_sha256": "8b5b51ed9685de999cdd0033122160d8f116c2e7f365d914d0bca5bc382686ff"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_lightning_bolt_trail2.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_lightning_bolt_trail2.dds",
+    "dds_size": 87568,
+    "dds_sha256": "db83c7a2f81855c445b8d8033d824a3019dd0c8ef888b77d32aed36c4ff2b7de"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_lightning_trail.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_lightning_trail.dds",
+    "dds_size": 87568,
+    "dds_sha256": "a36a330c059525365088126335fa054991eb76cc900090aa65272ff13d16b415"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_snow_flakes.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_snow_flakes.dds",
+    "dds_size": 87536,
+    "dds_sha256": "52500998941ea07b442e44ee01300236c3f87375d8b2b53ade28f403f2a83f19"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_snow_flake_cloud_01.iwi",
+    "status": "ok_fmt13_mips4_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_snow_flake_cloud_01.dds",
+    "dds_size": 240,
+    "dds_sha256": "322a8cf0b9e7fa809edcd74dada522ce9d190257c15ad012b389ace411c9d56a"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_snow_flake_cloud_02.iwi",
+    "status": "ok_fmt13_mips4_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_snow_flake_cloud_02.dds",
+    "dds_size": 240,
+    "dds_sha256": "b5aff1fe6f8bcd02af1aee79e83e34b1866af5563007641de94c5e879e6a074d"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_water_droplets.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_water_droplets.dds",
+    "dds_size": 87536,
+    "dds_sha256": "836039d48cd5a8c41c4397f8a88c77a06f2b097d938f8131542dae58cb1277e0"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_water_mist.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_water_mist.dds",
+    "dds_size": 87536,
+    "dds_sha256": "99efaa3c01e443a9d98ed75e1c412d555d7dd5f749b2caf49bd7e27773ffd695"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_water_plume_dense.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_water_plume_dense.dds",
+    "dds_size": 174928,
+    "dds_sha256": "b2048242acf29c6f8ee1fe7086fab37c5492a0f96fd4c92b089a872ac1c69a36"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_water_ripple.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_water_ripple.dds",
+    "dds_size": 174928,
+    "dds_sha256": "63f55cf9037d51f04700a1d2079e1ffde147f857d9e76df9a007324b6815d6a9"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_env_water_splash2.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_env_water_splash2.dds",
+    "dds_size": 174928,
+    "dds_sha256": "b56ef7a3706304f72cd894906ecd999023f2d4c6154c92089989e9bb63b9a839"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_exp_ember_omni.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_exp_ember_omni.dds",
+    "dds_size": 87536,
+    "dds_sha256": "bcd89781cb571b3dde098c8e909614851ec8cab44132c3617f67afa96bee0eca"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_exp_fire.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_exp_fire.dds",
+    "dds_size": 349680,
+    "dds_sha256": "62afed419ed45c702f4139a4359d83a24981935eb6531ff2ff5643fb14f73681"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fire_anim_fuel.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fire_anim_fuel.dds",
+    "dds_size": 699216,
+    "dds_sha256": "147641ab1c5f1a9c036250629f417a4654b226c44f04d9d641da69cd79339493"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fire_anim_sm.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fire_anim_sm.dds",
+    "dds_size": 699216,
+    "dds_sha256": "1a6f8b3e0334fdb0b69fcaeed7a33540c249a3a7e95dcb45d021898114365ad5"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fire_flame_clump_rvn.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fire_flame_clump_rvn.dds",
+    "dds_size": 87536,
+    "dds_sha256": "dfe7f98b21b64d2fdb27f632f0f8cdaac0fd216d679e090bbe9fcbcb45afa946"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fire_flame_lick.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fire_flame_lick.dds",
+    "dds_size": 349680,
+    "dds_sha256": "582cb49eb464acb13362e3963523a464f548fd28597bc3d1dd9f656467d0d7a3"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fx_distortion_heat.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fx_distortion_heat.dds",
+    "dds_size": 87536,
+    "dds_sha256": "6d49926cb07c5d1b3d19eb276dd96e93400a2c28df79f3920c01d7bf7191313f"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fx_distortion_ring.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fx_distortion_ring.dds",
+    "dds_size": 5616,
+    "dds_sha256": "b890bc14c17ac171b8db73e181d24a8e749594463da7d503b8a02518765adb24"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fx_distortion_ring_warp.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fx_distortion_ring_warp.dds",
+    "dds_size": 22000,
+    "dds_sha256": "5edec03b408a29d1cba540a6eac1579203ded4d160b5d5fd9665cb410a001316"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fx_distortion_shc_wave.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fx_distortion_shc_wave.dds",
+    "dds_size": 43856,
+    "dds_sha256": "6c3422e9f0983ffc37e2c99b5de92c5f66fe802e43233476562cdeb6de193560"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fx_distortion_splash.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fx_distortion_splash.dds",
+    "dds_size": 87536,
+    "dds_sha256": "0abb686b4a38b39257a2625afdec7002e3568f29d0e6f540a528c4a2cba8240c"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fx_distortion_water.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fx_distortion_water.dds",
+    "dds_size": 87536,
+    "dds_sha256": "dab4e97224bfec8ace17fefb10dff6b489f9cddd0242fa3b490108df1538a641"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fx_raygun_ring.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fx_raygun_ring.dds",
+    "dds_size": 5616,
+    "dds_sha256": "b87860d1654da22ca81daf912a084edad5c4c20878e81d2be9970635d5fe6ebf"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fx_spark_field.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fx_spark_field.dds",
+    "dds_size": 87536,
+    "dds_sha256": "e79dcb5df0c411b328e6fb028a75ec2e2a71cd8600bfc0163b0929abf1ad02e4"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_fx_thundergun_ring.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_fx_thundergun_ring.dds",
+    "dds_size": 5616,
+    "dds_sha256": "54d0320cd7c19c5eb824b77e85d8d754f1ebfd7bea04998e0f5e6bed4ecc407b"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_lensflare_diamond.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_lensflare_diamond.dds",
+    "dds_size": 5616,
+    "dds_sha256": "cb0c9d9d7cf0bce1077dac9081e9b6b8af3f332331af83eb69467c63518aa7d9"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_lensflare_stripe_white.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_lensflare_stripe_white.dds",
+    "dds_size": 2960,
+    "dds_sha256": "655239840ece1e13a4957e5b0230b9702e33817c80af484958c056a18e7e63f7"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_light_flare.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_light_flare.dds",
+    "dds_size": 22000,
+    "dds_sha256": "20ba9008999790840f80ce0bcee0a54cc63b3efd32722b05b680535af1f454d2"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_light_flare2.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_light_flare2.dds",
+    "dds_size": 22000,
+    "dds_sha256": "3705b554ebe753ea4a98915fa8d3479c7da86e1ea8b1c05b0fb284af20959126"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_light_flare_cool.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_light_flare_cool.dds",
+    "dds_size": 87536,
+    "dds_sha256": "4b0c41b89938349f8822b9b607891bb1566ef3d25ab30057666019b827b9c40d"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_light_flare_halogen.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_light_flare_halogen.dds",
+    "dds_size": 22000,
+    "dds_sha256": "3dccd1b0b10664f2175c8f0df99885933ed8caedb6d9579cda4ce989cbe616d7"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_light_flare_star.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_light_flare_star.dds",
+    "dds_size": 5616,
+    "dds_sha256": "e90991345820d9b2a5e60ade2c82e031ecd1c4fc78d8df48d242a4fe38ca166e"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_light_glow.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_light_glow.dds",
+    "dds_size": 22000,
+    "dds_sha256": "803b58b2bf0180e878eef194db41fc6517d09c3d8433d0e106e3d96f1d209992"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_light_phosphorous.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_light_phosphorous.dds",
+    "dds_size": 22000,
+    "dds_sha256": "9c1f0124986c9e13e518a987f679d04d1c90471c64f8e0b6467e9c8292012c26"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_light_ray_ribbon_spread.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_light_ray_ribbon_spread.dds",
+    "dds_size": 22000,
+    "dds_sha256": "a958a9768a354df3fe16335a563939b0006c2e8dd14d9c1dc66b2edcbd3476b6"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_light_ray_solid.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_light_ray_solid.dds",
+    "dds_size": 22000,
+    "dds_sha256": "7270a595ee4a86bdafa51aba666af352f939772ccaddc76c7f7b0cc9da383b7d"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_light_ray_spread.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_light_ray_spread.dds",
+    "dds_size": 87536,
+    "dds_sha256": "9f1ffc357109a7d797fb76744ab785a93364e47a9d18bc37ae8213ffecf1bf6e"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_muz_vert_gen.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_muz_vert_gen.dds",
+    "dds_size": 22000,
+    "dds_sha256": "d7e1dc8879dcf46eaa07b8b28f8280795ce5555a34d56a65d7aa049b30465d14"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_smk_gen.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_smk_gen.dds",
+    "dds_size": 174928,
+    "dds_sha256": "7f72a7d14718cfb9a203172fe6c555d875ed08b24d52e4c96da336686394c87d"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_smk_light_old.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_smk_light_old.dds",
+    "dds_size": 699216,
+    "dds_sha256": "85637d96668b162ff431c2a5e7470ae3e0873df90a3fc746bf2c5b2c3c38cad0"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_smk_puff.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_smk_puff.dds",
+    "dds_size": 174928,
+    "dds_sha256": "78ca8377655f4557b33e3c0fb6f1c4e36dec77d7508fdef0e1456a941af9c03f"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_smk_scattered.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_smk_scattered.dds",
+    "dds_size": 174928,
+    "dds_sha256": "0c1c4a6f023113c58f87b24ea2c182a7c2c8b4b83d23e19af2c8e97bd82a636c"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_smk_swirl.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_smk_swirl.dds",
+    "dds_size": 43856,
+    "dds_sha256": "ec46ce8416cf3d7105ac3b7d7fadc64994017cda1e2c397efdbd1fe6f5c86ce2"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_smk_tendril.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_smk_tendril.dds",
+    "dds_size": 87536,
+    "dds_sha256": "ff94c2d13284ba21dfd4c450124f210926c64116f7df4e2744f8a35b29270f3d"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_smk_whisp.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_smk_whisp.dds",
+    "dds_size": 174928,
+    "dds_sha256": "3b6981c39d9b7a9201023f63baa2793b518e08b060b76e237d04b49d3b64d29a"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_smk_whisp_spiral.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_smk_whisp_spiral.dds",
+    "dds_size": 87536,
+    "dds_sha256": "df9520f7ff49c364c2f71e759b8c2dcf2826b009cbc710891d3c39a4e029d426"
+  },
+  {
+    "iwd": "mod_01.iwd",
+    "source": "images/fxt_spark_anim_blink.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_01/images/fxt_spark_anim_blink.dds",
+    "dds_size": 22000,
+    "dds_sha256": "c46904092aab23a7247cd2da6659522b380412d44bee8517ad47f3ecb9495387"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/fxt_zombie_thundergun_view_glow.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_02/images/fxt_zombie_thundergun_view_glow.dds",
+    "dds_size": 43856,
+    "dds_sha256": "bbf69b58e8ad07959d21c9dcd5f4e203a00acf3104809bcbf54bac50029e5369"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_aftertaste.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_aftertaste.dds",
+    "dds_size": 32896,
+    "dds_sha256": "6a49571ce5281e3e09db240d045117b03b3e5f7ff7c6e6d98cddb2e285fc5be7"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_anywhere_but_here.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_anywhere_but_here.dds",
+    "dds_size": 10128,
+    "dds_sha256": "fc84a3701827b504655a37f32f559fefabcd5a1f14fdae73eefbf64ebb56ad07"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_burned_out.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_burned_out.dds",
+    "dds_size": 10128,
+    "dds_sha256": "d7bdea0833910f8f55b1e01e0352264f621ce6a214f424f83d2bc6483db2a12d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_cache_back.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_cache_back.dds",
+    "dds_size": 10128,
+    "dds_sha256": "9d8fc1d8976f0a9a0d7418206867bcf4d435afb42315b2a2c926dc44b1992438"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_coagulant.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_coagulant.dds",
+    "dds_size": 32896,
+    "dds_sha256": "f2f650dcc9b85e47b0fcacb3b79178d10b0365c892f196f67f687d58023b2318"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_crate_power.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_crate_power.dds",
+    "dds_size": 10128,
+    "dds_sha256": "485cdf934ed8883e16aa7357e5c923a4b055da5dffaab91024a03714791580ba"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_crawl_space.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_crawl_space.dds",
+    "dds_size": 10128,
+    "dds_sha256": "24ddefc235ad8067ae33424d88faa1c2fe0df7b2a6cdad71582197abc3960001"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_ephemeral_enhancement.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_ephemeral_enhancement.dds",
+    "dds_size": 10128,
+    "dds_sha256": "9904ee8c9adb8120bf907e4fd2fa38ad2add9783aa3dcb09eb3bba42e5d3b7d4"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_extra_credit.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_extra_credit.dds",
+    "dds_size": 32896,
+    "dds_sha256": "69ce833eb25ce644f0bdf68c2fb932e5ea50a440f531c4bc1940354f18f5e75d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_feeling_lucky.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_feeling_lucky.dds",
+    "dds_size": 10128,
+    "dds_sha256": "4c840c182158e907a6107403d7de1569004e410f3e68587637bfeac1d0a9caae"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_flavor_hexed.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_flavor_hexed.dds",
+    "dds_size": 32896,
+    "dds_sha256": "d4dc0a7e5af5519209ef73f1c4a69e701720cb867a79b4d446fc68434e8e1ee5"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_free_fire.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_free_fire.dds",
+    "dds_size": 10128,
+    "dds_sha256": "b601d92ba2f1c380f8bdc42d86eacaaad3aadcb451a843e4f18db106a019ad7d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_idle_eyes.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_idle_eyes.dds",
+    "dds_size": 10128,
+    "dds_sha256": "59ec261bc8e5913189c67508b3eee7b9e4a3f0b92bfd88686c906e57448474ba"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_immolation_liquidation.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_immolation_liquidation.dds",
+    "dds_size": 10128,
+    "dds_sha256": "b49a7f4b00829255eb546a1c3e6a081117c1a3267f0352708dad73eccbda4927"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_kill_joy.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_kill_joy.dds",
+    "dds_size": 10128,
+    "dds_sha256": "e208228e50cff2235ec89f3971d6d924827cc048d5c6fbea8584086deffc6f3b"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_licensed_contractor.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_licensed_contractor.dds",
+    "dds_size": 10128,
+    "dds_sha256": "14cb7bde4070dbcbd238741ed83b11cda5201d4374529cce7c709bd23ed63872"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_mind_blown.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_mind_blown.dds",
+    "dds_size": 10128,
+    "dds_sha256": "bb95ee5f29cfc18c566ea971a3b7c1f03fd18becc854392513dba1c3c72ce35a"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_near_death_experience.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_near_death_experience.dds",
+    "dds_size": 10128,
+    "dds_sha256": "ce0c6e4155d4a2d21cae1265da54a27b79d433ff08410f44e9cdb7216c95f3f6"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_none.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_none.dds",
+    "dds_size": 10128,
+    "dds_sha256": "158c3717cabf16d99e5e536a322910142a9678ddf09e7b97769e63ed78fe863a"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_nowhere_but_there.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_nowhere_but_there.dds",
+    "dds_size": 10128,
+    "dds_sha256": "24b86f4f2c50a993096e73f2c9c3f24b63795b17f41be6daff74c422b693ed69"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_nuclear_winter.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_nuclear_winter.dds",
+    "dds_size": 10128,
+    "dds_sha256": "3bec9d33af275f07928eb102db4e7285b96a5b6a6a86b16cb6977269f6717f7e"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_on_the_house.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_on_the_house.dds",
+    "dds_size": 10128,
+    "dds_sha256": "fdcef361bde9197cb4aeaa48de0baafa51db97984617a59d7147798921334657"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_perkaholic.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_perkaholic.dds",
+    "dds_size": 10128,
+    "dds_sha256": "63b723bd7d2d95c12aabee89fc13e298431a1e37d3ae7de7dcd58931df3e2cc8"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_phoenix_up.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_phoenix_up.dds",
+    "dds_size": 10128,
+    "dds_sha256": "e998995c356aacc97eecfcfdbc3a14aa09f3d2e6492490738388413279e1e761"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_power_vacuum.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_power_vacuum.dds",
+    "dds_size": 10128,
+    "dds_sha256": "b8ebccdd4b1ab189fbe4ce05a4b65a25097fd7fa18ffc8432248cb9357905be5"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_profit_sharing.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_profit_sharing.dds",
+    "dds_size": 10128,
+    "dds_sha256": "e6248cd7039f7bc19cacd6020697876b9424e8d122937b4ab194bf22dcc53c53"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_random.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_random.dds",
+    "dds_size": 65664,
+    "dds_sha256": "29de525e8bcd0d7cbdf069bc38fe8adbef9b0d649c5847f19adf3ba1b3a42034"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_reign_drops.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_reign_drops.dds",
+    "dds_size": 10128,
+    "dds_sha256": "836fabac8ff70bec68b3f720af2807511e95c6999d57bb94bba1b3f9faa89fc6"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_respin_cycle.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_respin_cycle.dds",
+    "dds_size": 10128,
+    "dds_sha256": "860e4817fc6ee5dce2f57281c3790a844e5d0780bf44eccf380380bcc0740132"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_round_robin.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_round_robin.dds",
+    "dds_size": 10128,
+    "dds_sha256": "80929e616d4b63f21034966b32ff04e6d7b738b46b2c4169162a6abd16fcce2d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_soda_fountain.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_soda_fountain.dds",
+    "dds_size": 10128,
+    "dds_sha256": "769a680304be6f6263d5b96aa36f72c6b72df66d610996a26a48c3e6fbf91517"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_stock_option.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_stock_option.dds",
+    "dds_size": 10128,
+    "dds_sha256": "3f3faf30b14d1f154fb5bd405700015bafbda99b2eb366df40f7440ef687f189"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_temporal_gift.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_temporal_gift.dds",
+    "dds_size": 10128,
+    "dds_sha256": "33171188c8423d92e585b1726c5674f1419f9d924368e764e45db526f94e239e"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_tone_death.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_tone_death.dds",
+    "dds_size": 10128,
+    "dds_sha256": "38f5f9e647faaae3ee943a36aae82b05e81cc6c1d6092cc30901eef3bfb35770"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_undead_man_walking.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_undead_man_walking.dds",
+    "dds_size": 10128,
+    "dds_sha256": "1ea34da7cd8b51dfb95542b6957ec94189de47a19cb8ac1800b3d3371dc31b8b"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_wall_power.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_wall_power.dds",
+    "dds_size": 10128,
+    "dds_sha256": "16e5db7b34921eccdf358c330cc2464d7337738dc43d998149c9e0f97ff178c6"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_whos_keeping_score.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_whos_keeping_score.dds",
+    "dds_size": 10128,
+    "dds_sha256": "abb458247107ae9ac3a3a40c70b6b0e813100df85e7791c6b970546bdbff1476"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/gum_wonderbar.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/gum_wonderbar.dds",
+    "dds_size": 10128,
+    "dds_sha256": "966009398d33225f3cbc46d92085886e321786eadc622afb1b9a197bb7371ecd"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/hud_colt.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_02/images/hud_colt.dds",
+    "dds_size": 5616,
+    "dds_sha256": "dc777ee9ba2b3fff2fe482f80e963b34c1b2edb478f4f9cac6b7004f6f0411e4"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/hud_flamethrower_reticle.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_02/images/hud_flamethrower_reticle.dds",
+    "dds_size": 5616,
+    "dds_sha256": "3b2f8705f1d0de42dc62e10bce3f0b056919f93a23205d350439f2513731bc8b"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/hud_iw4_intervention.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/hud_iw4_intervention.dds",
+    "dds_size": 131200,
+    "dds_sha256": "f6c83b79149607b55c92ba765280ca0b3b4c15f4a4d23d4bac49241baa5f449d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/hud_t4_kar98k.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/hud_t4_kar98k.dds",
+    "dds_size": 131200,
+    "dds_sha256": "9d64d4de2ac826b5a7f0c422b21e40be746f63da797ed37fbb62374f55eb8e22"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/hud_tesla.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_02/images/hud_tesla.dds",
+    "dds_size": 11088,
+    "dds_sha256": "770af3b18f4bdb1e9d7de4a99c53e4d0ecc6840b50ea56eb8fa3c216cfa7dd8d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/hud_thundergun.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_02/images/hud_thundergun.dds",
+    "dds_size": 11088,
+    "dds_sha256": "de2b42fcb664d730febe394ad3bce6e6d42d9db5d2b7e3d18df754efe2b7e703"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/impact_wood01_nml.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_02/images/impact_wood01_nml.dds",
+    "dds_size": 5616,
+    "dds_sha256": "a31dfc471ecbdb46e557d5c49da0b1b9b25c13538868e1cab350f8a94e8157d7"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/impact_wood02_nml.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_02/images/impact_wood02_nml.dds",
+    "dds_size": 5616,
+    "dds_sha256": "63104cc26225b1163001d7c579a16501b58a87d6184554f15d216f5d29f0b896"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/impact_wood03_nml.iwi",
+    "status": "ok_fmt13_mips7_flags0",
+    "dds_path": "textures_dds/mod_02/images/impact_wood03_nml.dds",
+    "dds_size": 5616,
+    "dds_sha256": "9234a4377b5f703c7922bc4828930740a0fbb51f9a92963f8851701dd9f268a2"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_base_c.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_base_c.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "548ea15b78e2da722d89e1b12d8709c5fa701cf4041b6775c3cc2329e9fe9d22"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_base_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_base_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "1318a06bb3f3038e94622086a4dd177fa486cff9a92d509c52e68a43314622a2"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_base_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_base_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "f37cc6b0694944777caddfa269ca1cda9ef394bcdaedc334d1488dbf70dcb23d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_laser_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_laser_c.dds",
+    "dds_size": 16512,
+    "dds_sha256": "ee43ef9c293e7e0043e3ac26d3c08f694fecbddedf3969a2b2320b85be55d14b"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_laser_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_laser_n.dds",
+    "dds_size": 32896,
+    "dds_sha256": "cf65c2e8e30f038614c8071bd032ee248406e97a8dd3f65108aba0aa9574fb75"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_laser_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_laser_s.dds",
+    "dds_size": 32896,
+    "dds_sha256": "2d857d44ed2df8903e1504ab4ee48457d609c7b016c79792f9eb233a97198ac9"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_lens_c.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_lens_c.dds",
+    "dds_size": 4224,
+    "dds_sha256": "7381b9d7c099d336a0c2b0a1f77d6ad0766d3838d4ca620dcfa595d48467c5ee"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_lens_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_lens_s.dds",
+    "dds_size": 4224,
+    "dds_sha256": "0836a759214ef1ad57b6bcd9e0af1e903c16c5677aba8a1cafb472556d23ba4c"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_scope_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_scope_c.dds",
+    "dds_size": 65664,
+    "dds_sha256": "75e23cbb454f013a7c89fa1295286f543f79fa7998dbd6a1d0b88c74cf6ab166"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_scope_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_scope_n.dds",
+    "dds_size": 131200,
+    "dds_sha256": "943638a5987399963a38c2bef47d231bf572ce6df74f2d528fafba16673bb3da"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_scope_overlay.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_scope_overlay.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "b7eb1e7c49282a1ad9aa6ba65c864c2973a3429d843ae9c8866fdfe934f215a3"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/iw4_intervention_scope_s.iwi",
+    "status": "ok_v6_fmt13_mips10",
+    "dds_path": "textures_dds/mod_02/images/iw4_intervention_scope_s.dds",
+    "dds_size": 174928,
+    "dds_sha256": "52dd102e273e7c6eb318631932b4fb2a3dcad5e1698ff02018ea55b1425e5c0b"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/i_m82_scope_lens_c.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/i_m82_scope_lens_c.dds",
+    "dds_size": 262272,
+    "dds_sha256": "2b05db24b1876f522977ceeed0b44c8841f2524fbab4ea4f62a1adb8298ee44a"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/i_m82_scope_lens_n.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/i_m82_scope_lens_n.dds",
+    "dds_size": 262272,
+    "dds_sha256": "66d653c815f8a1ab5c5351796bbfa79a21debed5b502052b72674c74f7ac678d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/i_m82_scope_lens_o.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/i_m82_scope_lens_o.dds",
+    "dds_size": 65664,
+    "dds_sha256": "05d2e548a343f0c3c443e5c6cb1c903edd91709708433acaaddf005d2db27232"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/i_m82_scope_lens_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/i_m82_scope_lens_s.dds",
+    "dds_size": 262272,
+    "dds_sha256": "d083f944f56e59f64e625789863c62ce111a149b837a39fb20a7b79ed30c16de"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/limbs_n.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_02/images/limbs_n.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "d2aeba6f859a49f29003572e8725ba1a07d81dba9803e655c0016fb90beabe34"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_buried_zclassic_processing.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_buried_zclassic_processing.dds",
+    "dds_size": 524416,
+    "dds_sha256": "76fb6ac5d044788f7bdf6142595a6a9bc5817a598d93be0793772b72e818c4f4"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_buried_zgrief_street.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_buried_zgrief_street.dds",
+    "dds_size": 524416,
+    "dds_sha256": "76fb6ac5d044788f7bdf6142595a6a9bc5817a598d93be0793772b72e818c4f4"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_dierise.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_dierise.dds",
+    "dds_size": 524416,
+    "dds_sha256": "181474dd3f960c37f3248293df6a4884d2be1db1ad74d806d908e507f468b5d3"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_transit_classic.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_transit_classic.dds",
+    "dds_size": 524416,
+    "dds_sha256": "ac5a8f5b675491a5bdcc7ad86e929c2b94d76091c871f439eaa9bf58b6151fae"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_transit_grief_busdepot.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_transit_grief_busdepot.dds",
+    "dds_size": 524416,
+    "dds_sha256": "137cf6b052247ad3b33794ff3ebf32b503e42bdb7a86ac083d84cad5de8c6f22"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_transit_grief_farm.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_transit_grief_farm.dds",
+    "dds_size": 524416,
+    "dds_sha256": "88efc4f5b10a1c61339e7aaa3e6cf46f6cd389420308dc97256a9972f39474b5"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_transit_grief_town.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_transit_grief_town.dds",
+    "dds_size": 524416,
+    "dds_sha256": "84072bd0315ec2e371b765622407fe9b3263ee37b99105f02552435d6a6b5273"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_transit_standard_busdepot.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_transit_standard_busdepot.dds",
+    "dds_size": 524416,
+    "dds_sha256": "137cf6b052247ad3b33794ff3ebf32b503e42bdb7a86ac083d84cad5de8c6f22"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_transit_standard_diner.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_transit_standard_diner.dds",
+    "dds_size": 524416,
+    "dds_sha256": "70dd462dbc52b1461fc23a35efa65918d5ec7aa81e5882d72d58abc6cd5a5c33"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_transit_standard_farm.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_transit_standard_farm.dds",
+    "dds_size": 524416,
+    "dds_sha256": "06c3baf8e97afc89d84cdfd6b25c167b5507054c30355671a552e8506a46da84"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_transit_standard_town.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_transit_standard_town.dds",
+    "dds_size": 524416,
+    "dds_sha256": "84072bd0315ec2e371b765622407fe9b3263ee37b99105f02552435d6a6b5273"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_zm_hellcatraz.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_zm_hellcatraz.dds",
+    "dds_size": 524416,
+    "dds_sha256": "d67fcc8bdffd140bb1e687aa5a52f3440665347d92a47d807bb5dabc09b954c2"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_zm_nuketown.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_zm_nuketown.dds",
+    "dds_size": 524416,
+    "dds_sha256": "d4f3a765a70cbd9e8947b607b06448ad900b0cd4b355f5a68db6824bb7cbbb19"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/loadscreen_zombie_le_tombeau.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/loadscreen_zombie_le_tombeau.dds",
+    "dds_size": 1036928,
+    "dds_sha256": "1f052851d2a5bb3ddd1eae40683287775f2358251c7924a02642a64f111c7dac"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_iw4_intervention_big.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_iw4_intervention_big.dds",
+    "dds_size": 131200,
+    "dds_sha256": "8931ce25a5fdba735245595bc274acd488625fb99de1bbfec0e5b29f39e791dc"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_drag.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_drag.dds",
+    "dds_size": 32896,
+    "dds_sha256": "da22d9549f486a08ffa59ed8a67c8fc0f69cc4376c7399076bd991b8115243fe"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_drag_big.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_drag_big.dds",
+    "dds_size": 131200,
+    "dds_sha256": "ed53a98af00d7b4bebbdbac3e5f1a55fa35fd4a8331e9bed3872127f4d15ccf9"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_insas.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_insas.dds",
+    "dds_size": 32896,
+    "dds_sha256": "d11d2b4f69f73e986dcc20b363cb46935c15a86cdc75b069d9c9d444d10d591d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_insas_big.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_insas_big.dds",
+    "dds_size": 65664,
+    "dds_sha256": "e6cdc18147e00c76052d40de5f0c6daac765006071d4662e97985fffd5c69330"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_judge.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_judge.dds",
+    "dds_size": 32896,
+    "dds_sha256": "3a9fdc8e28693d8d7a7c5230ab8c2ab5f2bc75c573046dc32033e1fc1442c3af"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_judge_big.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_judge_big.dds",
+    "dds_size": 32896,
+    "dds_sha256": "3a9fdc8e28693d8d7a7c5230ab8c2ab5f2bc75c573046dc32033e1fc1442c3af"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_m60.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_m60.dds",
+    "dds_size": 32896,
+    "dds_sha256": "da22d9549f486a08ffa59ed8a67c8fc0f69cc4376c7399076bd991b8115243fe"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_m60_big.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_m60_big.dds",
+    "dds_size": 131200,
+    "dds_sha256": "ed53a98af00d7b4bebbdbac3e5f1a55fa35fd4a8331e9bed3872127f4d15ccf9"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_makarov.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_makarov.dds",
+    "dds_size": 32896,
+    "dds_sha256": "da22d9549f486a08ffa59ed8a67c8fc0f69cc4376c7399076bd991b8115243fe"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_makarov_big.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_makarov_big.dds",
+    "dds_size": 131200,
+    "dds_sha256": "ed53a98af00d7b4bebbdbac3e5f1a55fa35fd4a8331e9bed3872127f4d15ccf9"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_metalstorm.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_metalstorm.dds",
+    "dds_size": 32896,
+    "dds_sha256": "33e3b3f6a955140f14458031ac3f93bf94778e1319bfc67beccff50f3333f8ba"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_metalstorm_big.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_metalstorm_big.dds",
+    "dds_size": 32896,
+    "dds_sha256": "33e3b3f6a955140f14458031ac3f93bf94778e1319bfc67beccff50f3333f8ba"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_pm.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_pm.dds",
+    "dds_size": 32896,
+    "dds_sha256": "da22d9549f486a08ffa59ed8a67c8fc0f69cc4376c7399076bd991b8115243fe"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_pm_big.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_pm_big.dds",
+    "dds_size": 131200,
+    "dds_sha256": "ed53a98af00d7b4bebbdbac3e5f1a55fa35fd4a8331e9bed3872127f4d15ccf9"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_spas.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_spas.dds",
+    "dds_size": 32896,
+    "dds_sha256": "da22d9549f486a08ffa59ed8a67c8fc0f69cc4376c7399076bd991b8115243fe"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_mp_weapons_spas_big.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_mp_weapons_spas_big.dds",
+    "dds_size": 131200,
+    "dds_sha256": "ed53a98af00d7b4bebbdbac3e5f1a55fa35fd4a8331e9bed3872127f4d15ccf9"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/menu_t4_kar98k_big.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/menu_t4_kar98k_big.dds",
+    "dds_size": 131200,
+    "dds_sha256": "64b02719965ec626008752167a5d8bfbc42b5004dc939418d998cdf71ef092f6"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/minimap_icon_chugabud.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/minimap_icon_chugabud.dds",
+    "dds_size": 65664,
+    "dds_sha256": "dbd6b25d26bde05342100d5da1bc51a85908898544b14c0ab7042015cf30aac3"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/minimap_icon_electric_cherry.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/minimap_icon_electric_cherry.dds",
+    "dds_size": 65664,
+    "dds_sha256": "77b0ae3dde8c24de3e44faf66c72a04d27266ff5f70909ce1d1b5ce4d248b438"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t5_attach_optic_acog_lens_nml.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t5_attach_optic_acog_lens_nml.dds",
+    "dds_size": 87536,
+    "dds_sha256": "89705955a307a58c3e342323804a7e8be7eb3b9853bca2dde1de029b142e3692"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t5_wpn_zmb_freezegun_ammo_nml.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t5_wpn_zmb_freezegun_ammo_nml.dds",
+    "dds_size": 349680,
+    "dds_sha256": "1d74f73ae66d085fe68dbe800579c6de353a0b13e996742c6fab8c2c564bc89a"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t5_wpn_zmb_freezegun_nml.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t5_wpn_zmb_freezegun_nml.dds",
+    "dds_size": 349680,
+    "dds_sha256": "80d36c2ad379a8346aa670aaebb40138e1505bf9a99978b95d49a98c526ba87e"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t5_wpn_zmb_thundergun_control_box_nml.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t5_wpn_zmb_thundergun_control_box_nml.dds",
+    "dds_size": 349680,
+    "dds_sha256": "41472d07e3c439cc9daf3311872410aa7c351ad99abe439ed31655fd037dd05a"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t5_wpn_zmb_thundergun_mesh_nml.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t5_wpn_zmb_thundergun_mesh_nml.dds",
+    "dds_size": 22000,
+    "dds_sha256": "52bc85463bb0c36704f5cf9c88e45dcd0bb4b40ce465f434fd5ffae6e742ee22"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t5_wpn_zmb_thundergun_nml.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t5_wpn_zmb_thundergun_nml.dds",
+    "dds_size": 349680,
+    "dds_sha256": "5af6a5c169e2205e0de80258252cf255f52e55913bc84f7f4782a8506052b419"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t6_attach_bullet_nml.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/mtl_t6_attach_bullet_nml.dds",
+    "dds_size": 65664,
+    "dds_sha256": "d17de7d928f469194d673e99611b7f046836fc2dfb17a736f00287fce81428cc"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t6_attach_tritium_blu_glo.iwi",
+    "status": "ok_fmt13_mips1_flags3",
+    "dds_path": "textures_dds/mod_02/images/mtl_t6_attach_tritium_blu_glo.dds",
+    "dds_size": 2176,
+    "dds_sha256": "9585693a60d6a2b3a16d64e8a5c1867b664e5357cac163ead537b605dd0dd3ab"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t6_attach_tritium_red_glo.iwi",
+    "status": "ok_fmt13_mips1_flags3",
+    "dds_path": "textures_dds/mod_02/images/mtl_t6_attach_tritium_red_glo.dds",
+    "dds_size": 2176,
+    "dds_sha256": "bc93d919fce1eb538c5939bd9483e18f1fd447e36a0f9a46e3bac0d9457034eb"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t6_wpn_smg_peacekeeper_nml.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/mtl_t6_wpn_smg_peacekeeper_nml.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "dabc9c1ed256b3688dbdf0058832aa69770a99a354a4475b82621274135eb2c5"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t6_wpn_zmb_staff_crystal_nml.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t6_wpn_zmb_staff_crystal_nml.dds",
+    "dds_size": 87536,
+    "dds_sha256": "34dff8cd76b63c6750ee0ce754beb5a5c0d60aaef733d0954914f32958bf10b5"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t6_wpn_zmb_tesla_chamber_nml.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t6_wpn_zmb_tesla_chamber_nml.dds",
+    "dds_size": 22000,
+    "dds_sha256": "21ed611c38d00361e9f55425dfe2356afdf4edbfa08eb0d1ea87075683bc1d6e"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t6_wpn_zmb_tesla_glass_nml.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t6_wpn_zmb_tesla_glass_nml.dds",
+    "dds_size": 87536,
+    "dds_sha256": "f80463756642279f628bfe70dc6933fb70d376af90491d6592ff22d9dd71f53c"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t6_wpn_zmb_tesla_nml.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t6_wpn_zmb_tesla_nml.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "7f4b4e0cc84a8235048cb7af3684d557e908134e8340e13cafac994f10fef0b9"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t6_wpn_zmb_tesla_vacuum_camo1_nml.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t6_wpn_zmb_tesla_vacuum_camo1_nml.dds",
+    "dds_size": 349680,
+    "dds_sha256": "9673f21e7a34c79cc2cf93fb784598ad9a9cd556b1a52ab4ad9dbc8f07dbf15d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t6_wpn_zmb_tesla_vacuum_camo_nml.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t6_wpn_zmb_tesla_vacuum_camo_nml.dds",
+    "dds_size": 349680,
+    "dds_sha256": "9673f21e7a34c79cc2cf93fb784598ad9a9cd556b1a52ab4ad9dbc8f07dbf15d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t6_wpn_zmb_tesla_vacuum_glass_nml.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_02/images/mtl_t6_wpn_zmb_tesla_vacuum_glass_nml.dds",
+    "dds_size": 349680,
+    "dds_sha256": "9673f21e7a34c79cc2cf93fb784598ad9a9cd556b1a52ab4ad9dbc8f07dbf15d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t7_zmb_zod_idg_body_n.iwi",
+    "status": "ok_v13_fmt13_mips11",
+    "dds_path": "textures_dds/mod_02/images/mtl_t7_zmb_zod_idg_body_n.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "165b71b5ec99330ebaf2053041b863d2397607279f99466a32dc300f4856236c"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t7_zmb_zod_idg_bone_n.iwi",
+    "status": "ok_v13_fmt13_mips10",
+    "dds_path": "textures_dds/mod_02/images/mtl_t7_zmb_zod_idg_bone_n.dds",
+    "dds_size": 349680,
+    "dds_sha256": "08a16e5177c480f046947070dbb040761514eb0f65a328fd9471820cc1498829"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t7_zmb_zod_idg_eyes_n.iwi",
+    "status": "ok_v13_fmt13_mips10",
+    "dds_path": "textures_dds/mod_02/images/mtl_t7_zmb_zod_idg_eyes_n.dds",
+    "dds_size": 349680,
+    "dds_sha256": "8ce397f2f384ae7e5bf0682841f44780a1e700ed458a1e0fcff0e8cb2d4a18b5"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t7_zmb_zod_idg_sacks_n.iwi",
+    "status": "ok_v13_fmt13_mips10",
+    "dds_path": "textures_dds/mod_02/images/mtl_t7_zmb_zod_idg_sacks_n.dds",
+    "dds_size": 349680,
+    "dds_sha256": "18357be97b4853ad7fc54b12f34390c2be5c15eb09b1ff864b3aedca94e5bfec"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/mtl_t7_zmb_zod_idg_tentacles_n.iwi",
+    "status": "ok_v13_fmt13_mips11",
+    "dds_path": "textures_dds/mod_02/images/mtl_t7_zmb_zod_idg_tentacles_n.dds",
+    "dds_size": 699216,
+    "dds_sha256": "0ce1c83c52e0cb3c2b5831666f36499dcf11acf2ccc6b960e78b621e55f850bd"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/player_emblem_nor.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/player_emblem_nor.dds",
+    "dds_size": 65664,
+    "dds_sha256": "e1e5c28d70dd4fc30e1cd90282abfbab8fb3709dcd9dfbcb242873215c54d841"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/qr_bx7.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/qr_bx7.dds",
+    "dds_size": 405128,
+    "dds_sha256": "7c516786a6be5b8829aede2ed0ff72f02ce899f0f3ef4970d2009a11d6e07eb9"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/rus_ter_ice_clear_n.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_02/images/rus_ter_ice_clear_n.dds",
+    "dds_size": 349680,
+    "dds_sha256": "bfd0ed1e251992e451ef01db770f42fc772c4fa332cfcd062149c065b1ee3e79"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/rus_ter_ice_slush_n.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_02/images/rus_ter_ice_slush_n.dds",
+    "dds_size": 349680,
+    "dds_sha256": "6587787a576fb87a446e4efc472875985ce833fe0f0d22d7b37497db95537bd6"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/side_small.iwi",
+    "status": "ok_fmt13_mips1_flags3",
+    "dds_path": "textures_dds/mod_02/images/side_small.dds",
+    "dds_size": 192,
+    "dds_sha256": "4068a3b27202bf8a0e7fc382726d1e39893b8c0a396406adef44b27fdd669507"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/skin_pore_detail.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_02/images/skin_pore_detail.dds",
+    "dds_size": 87536,
+    "dds_sha256": "d6f2a7e5d636d9fbc94d68a9565f39f59d24444765e7a53003ed4aade2d7bd64"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_2x_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_2x_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "1e3292bec5802ea67ec735973d0f91411a3e528e9356a4314e33dcdac30f49dd"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_ads_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_ads_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "9a93e3f8151048dada7286892e26a70b179ebabd37ad5f0a108114493b25b68f"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_divetonuke_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_divetonuke_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "7efe5f3b6ee2291b198d534631385744fbfba97bee203a95ecdbdd441cf86f44"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_doubletap_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_doubletap_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "7b53bd646993a0c1d253cd9264f70f58c7192f41381fc06d0525d3b6649646a1"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_fastreload_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_fastreload_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "9ea0c3f6a9b2eefe50266cfae55be187ebc776bf2288b7b375c9c91006e4eafc"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_firesale_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_firesale_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "513b6980b0894d82cccdec9f217cd3a04ffb2f5319446c6fa460ed1302b5f718"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_instakill_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_instakill_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "cc56cdc58d70ac533eee8a244b6937cb6c27ed4f4aee3336478305ca5b468c7a"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_juggernaut_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_juggernaut_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "c9e493ba764f2c22701ef0eb54b8dcde9e8ff7fcb20d2cc59f75a76848a7cb02"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_marathon_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_marathon_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "34055e42f2caa6695f2ec8196be5ccccbcb48a96ef4d61646a1e7c4313d2ec5f"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_mulekick_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_mulekick_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "d8b76ad8ebf4a270f584c4cf5b82ca3424464d1911863fd5f07f41023154919d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_quickrevive_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_quickrevive_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "7aff719244dd2d423df5b4f8518b6944be6586bb694d75026f10783efb050b47"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_tombstone_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_tombstone_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "115626676555ea26bab7cd0fddd642247da3dcaf921d413f0d37f4a30f45b2d2"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_vulture_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_vulture_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "2b07e83ec4e33b281a6dbad6a6572e5f7db9e157ea9f4e1e1071009ad137a5c2"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/specialty_zomblood_zombies.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/specialty_zomblood_zombies.dds",
+    "dds_size": 65664,
+    "dds_sha256": "b5b2731f6e95f6ef93e5ddcf743f52c3bd1413f9bc0356736eec4c646d82a963"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/staff_anime_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/staff_anime_col.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "453971e60def7618a2e1ca5d373e34cca261034f178a560df40c79e6ff805f3d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/staff_anime_layer1.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/staff_anime_layer1.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "453971e60def7618a2e1ca5d373e34cca261034f178a560df40c79e6ff805f3d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/staff_anime_layer2.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/staff_anime_layer2.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "453971e60def7618a2e1ca5d373e34cca261034f178a560df40c79e6ff805f3d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/staff_anime_nml.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_02/images/staff_anime_nml.dds",
+    "dds_size": 87536,
+    "dds_sha256": "34dff8cd76b63c6750ee0ce754beb5a5c0d60aaef733d0954914f32958bf10b5"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/staff_coldwar_col.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/staff_coldwar_col.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "616bcc91135e8052ec5cb698802809d09e678950b6915292130fd78bb1cd3ac3"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/staff_coldwar_layer1.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/staff_coldwar_layer1.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "616bcc91135e8052ec5cb698802809d09e678950b6915292130fd78bb1cd3ac3"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/staff_coldwar_layer2.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/staff_coldwar_layer2.dds",
+    "dds_size": 8388736,
+    "dds_sha256": "616bcc91135e8052ec5cb698802809d09e678950b6915292130fd78bb1cd3ac3"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/staff_coldwar_nml.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_02/images/staff_coldwar_nml.dds",
+    "dds_size": 87536,
+    "dds_sha256": "34dff8cd76b63c6750ee0ce754beb5a5c0d60aaef733d0954914f32958bf10b5"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/sw_radiant_default.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_02/images/sw_radiant_default.dds",
+    "dds_size": 22000,
+    "dds_sha256": "6d149bf07308695c8f54dfb62cd988962dea47dc287d2a3f8ff7c25f71fc3592"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t4_kar98k_base_c.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t4_kar98k_base_c.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "4647cf21b36cc5493de5e404d3516ce6ff354480c2f665abadf906c4ec0c73be"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t4_kar98k_base_s.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_02/images/t4_kar98k_base_s.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "cb6ad2adaa24c889cf878c8b6e537ab1cf5c33d2c319c0573e04c7a39167b971"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t4_kar98k_bullet_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t4_kar98k_bullet_c.dds",
+    "dds_size": 2176,
+    "dds_sha256": "c41345bdcdf178461a7ebf78372bc2947f22d94586b9a882a112f1f239783755"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t4_kar98k_bullet_s.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_02/images/t4_kar98k_bullet_s.dds",
+    "dds_size": 5648,
+    "dds_sha256": "94f2c6a9538a11d79593c443d3bfc0cfc6ad0258fcd86b70d8f9c70fe6a3d818"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t4_kar98k_lens_c.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t4_kar98k_lens_c.dds",
+    "dds_size": 65664,
+    "dds_sha256": "b8260cd20b80157335fa1de775fa82571fea76052c7b7decdce61a0f5ad4e959"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t4_kar98k_lens_s.iwi",
+    "status": "ok_fmt13_mips9_flags0",
+    "dds_path": "textures_dds/mod_02/images/t4_kar98k_lens_s.dds",
+    "dds_size": 87536,
+    "dds_sha256": "642ceaa891399aa5170b4d421d24f186a1ab91c92ff44786f6a494238d5f200e"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t4_kar98k_scope_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t4_kar98k_scope_c.dds",
+    "dds_size": 131200,
+    "dds_sha256": "02b21022b8223ca3baa674a975a8007c3ce528959e9e02b3616e39a14746ee94"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t4_kar98k_scope_overlay.iwi",
+    "status": "ok_fmt13_mips11_flags0",
+    "dds_path": "textures_dds/mod_02/images/t4_kar98k_scope_overlay.dds",
+    "dds_size": 1398256,
+    "dds_sha256": "7bf75a6c65f3c922c805da05ffe1db6e95db8856967ced9a8c56c3c30cf56e8f"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t4_kar98k_scope_s.iwi",
+    "status": "ok_fmt13_mips10_flags0",
+    "dds_path": "textures_dds/mod_02/images/t4_kar98k_scope_s.dds",
+    "dds_size": 349680,
+    "dds_sha256": "a2ce73ce4ff53597e523482df8018ad48cdfa8b043c3895c52424a28ce8e41bf"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t6_mtl_camo_darkmatter_ember.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t6_mtl_camo_darkmatter_ember.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "2b7f2b3ec938c6c788b3c3a474a0fbea16d7bcb64d891a7b302c9728de8faf30"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t6_mtl_camo_darkmatter_heat.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t6_mtl_camo_darkmatter_heat.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "8d929a34b5b16b8b8e272032f81581b66afb43d630c0f1762e19e47aa24e84ca"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t6_mtl_camo_darkmatter_reveal.iwi",
+    "status": "ok_fmt12_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t6_mtl_camo_darkmatter_reveal.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "70681c5d2522cef4b69f75fa440b5d6fc228d31658084537fa2f73477c0986a5"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t6_mtl_camo_interstellar_ember.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t6_mtl_camo_interstellar_ember.dds",
+    "dds_size": 131200,
+    "dds_sha256": "b42dcaf082f1215d13d8965630f599009aa5899c56cb74c062d8c0932053f0d0"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t6_mtl_camo_interstellar_heat.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t6_mtl_camo_interstellar_heat.dds",
+    "dds_size": 131200,
+    "dds_sha256": "85e13953dd612ec69f65866e090c79c406a6f0e1a76841a7b75527ba40a2583c"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_barrel_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_barrel_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "25987e911b07e86028fb587263a6e2e390511a6e9d01057d80b9a12c24acd685"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_barrel_cover_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_barrel_cover_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "b96e1214f7e47b5836122e0c561c9b753cd9b1a7b8e9fcfb53b843212484a1f2"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_barrel_cover_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_barrel_cover_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "52006900b8b1b5dcab9a3a1bebc9833424986e2ba83c62570a5c52fdcb6401d7"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_barrel_cover_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_barrel_cover_o.dds",
+    "dds_size": 32896,
+    "dds_sha256": "abd8052b32ac14ff11080877bb07b4ca673477cbdf2040e52b9e7a2433b857ce"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_barrel_cover_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_barrel_cover_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "a54816b51570fdbc2f873cabe04a5f99997ab8068c6c2bab6039945680085dbd"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_barrel_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_barrel_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "8bd7437843a3bf73b522f18ece2c4178b1dd806b6edc4c8a92dd4c441e79b7c9"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_barrel_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_barrel_o.dds",
+    "dds_size": 32896,
+    "dds_sha256": "d76789883a85689c9a5afddcf7b0b9b2942768fbdf6afad9ff07e007705616d3"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_barrel_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_barrel_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "149d4eb9028c7b5ca3ba9025be32302f3ca8151cced290ba442abe96b1e6d13e"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_body_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_body_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "965ebbc6b120522ecf325e4c2a4f4a219be5d8b45d2d5b6e53e12a48aa156021"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_body_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_body_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "56750acfc82243c06eb0e7e3de4881b2434869582377fbed3a7e4a4bf6fb99cc"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_body_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_body_o.dds",
+    "dds_size": 32896,
+    "dds_sha256": "676bbf6db4603c5661442c5e5c9dcfa36d0a806e71e263bf4f0cb03efb0abade"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_body_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_body_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "23b43d198682e61e50ed73b1a3de98be45c6187f51d4fc4eb5bd0be2df65a9a3"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_forend_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_forend_c.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "9ed1c1ca7e35c4ad46c17e72cc7baba989f143d79b06308ffb28634afbcf5c93"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_forend_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_forend_n.dds",
+    "dds_size": 2097280,
+    "dds_sha256": "dab0765a0fcfb5b15c9fc6513009c0022d27aed823320e4db2b1304f13f30272"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_forend_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_forend_o.dds",
+    "dds_size": 262272,
+    "dds_sha256": "2c68a11c1d941886521291ee4d236761dc1184571f4a29a031e95f08dddab998"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_forend_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_forend_s.dds",
+    "dds_size": 2097280,
+    "dds_sha256": "b59cd97eb78c611a4a94e7f0bb925bd31abe71c4cac32a298c72022ace7076ef"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_lazer_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_lazer_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "927e6bc3834b6ab9c5c2dd9ca73d005105e72fad10816fcfc5f2f63e240b0e45"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_lazer_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_lazer_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "fa01c7f2e76f0c9e1f1cd5d0f86eb9b0a5fc68ba803f045a56cffd63e0c699a1"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_lazer_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_lazer_o.dds",
+    "dds_size": 32896,
+    "dds_sha256": "ce65d6f7d4fa8bd5f770e72665f73248c6436c09c629e6c32c2b210e3b5d42c8"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_lazer_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_lazer_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "94d447c50966a679ae6a1bf3a2d23a246a4342f25049cd5c5f8987789222ca3d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_meter_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_meter_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "c47d3a83c6468eb2bf0ce39203a5ea751ed933c239bfd7bedad87115011de38e"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_meter_e.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_meter_e.dds",
+    "dds_size": 524416,
+    "dds_sha256": "c5053589048a55f6b6fd6d62482722d68c96675941587305b816fea559611db4"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_misc_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_misc_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "39189ca391ea09ec2296dc6b619ea93e7d215abcfe7c81b859c7b5c50d6cac9b"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_misc_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_misc_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "a0ddcf3a45920cdd6fb8afc104f06b28682211d48bceb79d6458fcea174112b6"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_misc_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_misc_o.dds",
+    "dds_size": 32896,
+    "dds_sha256": "da8548bfee94e53b5af6e1b5749c7d2ba37f238b36dbb6530ee4e9d8cae0f3c8"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_misc_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_misc_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "c11ed22444d37e6b80aae24541d4c4579c89afdc8e96428f46b78a806677b7c2"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_muzzle_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_muzzle_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "ad78971c3ab94bd77ad7e71197ab910e34bc9d90bfb4e0b7990cf28a1ef02aec"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_muzzle_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_muzzle_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "045417f1ee3377f5758ecf08f375a5cd8fa5f1cedf9ba9bbb567bbe4d2080ee4"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_muzzle_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_muzzle_o.dds",
+    "dds_size": 32896,
+    "dds_sha256": "3dd9daca79e6db7bfecdcb6b947a4f3254ed4051f4bc81229f11444029cea6e6"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_muzzle_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_muzzle_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "3b7a7692a8e48cb2c21a5dcf17fead9f4d1772a1263fb8647810432c1b51ddf0"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_pgrip_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_pgrip_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "384e457de62f5c2c17ce54c46ec0df82798f7ed87963863beae66dced2bb5f25"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_pgrip_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_pgrip_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "9b499f1a03e42483267c3134025b33efadca722ad875f78252cc17056e5b0c4e"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_pgrip_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_pgrip_o.dds",
+    "dds_size": 32896,
+    "dds_sha256": "f730a107e0abb5576e8f077a6e7fe0d3c8e5c1acd4b1ca0e865d5eb5b5d5b7cd"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_pgrip_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_pgrip_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "a40bbc4a3957259038444d1baf6a58f8c7dda21ce386702a1f49a3029e1968b3"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_power_pap_c_01.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_power_pap_c_01.dds",
+    "dds_size": 262272,
+    "dds_sha256": "b1278916c4623c1590de6311aab342fbbdfe648719615f57d8e68443b502cf53"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_power_pap_c_02.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_power_pap_c_02.dds",
+    "dds_size": 262272,
+    "dds_sha256": "e29296bdb2841aede97366e85e85283c4da2ace495b7d4cb09788f8fa24c5e8f"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_pump_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_pump_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "2368cb53ee31e3123e0114663af50464287bafb590eaa564c0822c057cc58e04"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_pump_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_pump_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "d8418192dd8c224d85902edfe3fe942fd60387288e7951655d3673d032ab2ae0"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_pump_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_pump_o.dds",
+    "dds_size": 32896,
+    "dds_sha256": "02c4deb22839a791c064c0de809dcaf3c24c1ccb68da9717b18d31955b13291c"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_pump_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_pump_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "049b6ec60d48890a26cbcd67c57fd5f4a33129cb098a2d59ef707c5b5b8ea79f"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_shell_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_shell_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "20002608ab2188bb5e11879f0a2d7bc55f93b3e00de8bcfdc2286d3adc0ceb9f"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_shell_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_shell_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "f262b9240a58c62231a22f073328e8f7ed95f1c02e1220f3c64e73d43632f0e9"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_shell_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_shell_o.dds",
+    "dds_size": 32896,
+    "dds_sha256": "2283e01138e1c0e50333b2a09a5398a66f7a5a53dd22063a23924085328d2d17"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_shell_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_shell_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "2908b4e7cd01ac087d375b50a77e6aaeca2c8317de4e5913a555ebb07176f638"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_stock_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_stock_c.dds",
+    "dds_size": 524416,
+    "dds_sha256": "fca511caf0eaaf36c45038a982daf7832bd477789514ee8b9f491d69bdb6c9dd"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_stock_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_stock_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "f05a5b15a991be7721f20494cf706e15bd996c9186cfd65ecc81d51184752cd6"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_stock_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_stock_o.dds",
+    "dds_size": 32896,
+    "dds_sha256": "8da7b279849673ad8004e40c2ddd150b011dd51211bcb8cd667c3cd53fde7d2c"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_stock_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_stock_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "e762ab6367c8501760e892aba3104465be13baed3b95265c572f40118ba0a999"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_triggergroup_c.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_triggergroup_c.dds",
+    "dds_size": 131200,
+    "dds_sha256": "25a0ca22ec35446236a2aaf7e36e53ab1f863768bb312b5cfc5b8c740788e81d"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_triggergroup_n.iwi",
+    "status": "ok_fmt14_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_triggergroup_n.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "9be4c8202eff50a0eacdbbc8e842d657d0f484bf4784bc2c09f05522cc0ebd1e"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_triggergroup_o.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_triggergroup_o.dds",
+    "dds_size": 32896,
+    "dds_sha256": "d118e09bf01643ec3fcb86ff75b86299e4f5a20b120ea178d703bfe4ef23997e"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/t9_gallo_blastomatic_triggergroup_s.iwi",
+    "status": "ok_fmt13_mips1_flags2",
+    "dds_path": "textures_dds/mod_02/images/t9_gallo_blastomatic_triggergroup_s.dds",
+    "dds_size": 1048704,
+    "dds_sha256": "eb000e6ac662988a10ee0f94aeaad1e5f07dd378f1603a56a691c497ad6f3111"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/thunder_chamber_scroll_base.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_02/images/thunder_chamber_scroll_base.dds",
+    "dds_size": 22000,
+    "dds_sha256": "4ab3c141704c7298ab42ebc3fc2f4e29a5289cc0f432ac91f9276dc6b4228313"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/weapon_camo_neutral.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_02/images/weapon_camo_neutral.dds",
+    "dds_size": 22000,
+    "dds_sha256": "18d52235a008a073329fcb8c0bea3b191315575cd3421a53b28253cc5f8c106a"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/weapon_camo_off.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_02/images/weapon_camo_off.dds",
+    "dds_size": 22000,
+    "dds_sha256": "18d52235a008a073329fcb8c0bea3b191315575cd3421a53b28253cc5f8c106a"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/zm_tm_shovel_lookup.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_02/images/zm_tm_shovel_lookup.dds",
+    "dds_size": 1168,
+    "dds_sha256": "a7dc1159f9094d53730b0f2b3963b188939d4099429fb79f71cc66020799ca24"
+  },
+  {
+    "iwd": "mod_02.iwd",
+    "source": "images/zombie_teleporter_glow_n.iwi",
+    "status": "ok_fmt13_mips8_flags0",
+    "dds_path": "textures_dds/mod_02/images/zombie_teleporter_glow_n.dds",
+    "dds_size": 22000,
+    "dds_sha256": "e481632c660c1135112b057e389e73bd2fe7efe5bbf5760a1da918895ad7cc9c"
+  },
+  {
+    "iwd": "mod_03.iwd",
+    "source": "images/ui_menu_wonderfizz.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_03/images/ui_menu_wonderfizz.dds",
+    "dds_size": 262272,
+    "dds_sha256": "f5b3ddecc4f951ceae4e26e1c6527fc37d6892f84f0c08292befcbc4d85a2566"
+  },
+  {
+    "iwd": "mod_03.iwd",
+    "source": "images/shatterblast_ammo.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_03/images/shatterblast_ammo.dds",
+    "dds_size": 32896,
+    "dds_sha256": "28be08b81aed614bd4ad276874cad57a253bff95e2e5a3b23ecb22861160eaa1"
+  },
+  {
+    "iwd": "mod_03.iwd",
+    "source": "images/turned_ammo.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_03/images/turned_ammo.dds",
+    "dds_size": 32896,
+    "dds_sha256": "96f70e49bfbcfbc646f7bfac7bb562d541f36c918786df943d9d6224a196caa4"
+  },
+  {
+    "iwd": "mod_03.iwd",
+    "source": "images/blastfurnace_ammo.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_03/images/blastfurnace_ammo.dds",
+    "dds_size": 32896,
+    "dds_sha256": "6a9dde8b2bea77f02e28743f47af52d40d1494ae718d244471dd73de12edcd9f"
+  },
+  {
+    "iwd": "mod_03.iwd",
+    "source": "images/cryofreeze_ammo.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_03/images/cryofreeze_ammo.dds",
+    "dds_size": 32896,
+    "dds_sha256": "668c16497618b0f13dbe8abb5367bf34e52d79952acb06dc08cec725f3ec7142"
+  },
+  {
+    "iwd": "mod_03.iwd",
+    "source": "images/deadwire_ammo.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_03/images/deadwire_ammo.dds",
+    "dds_size": 32896,
+    "dds_sha256": "8ce85f1346aaa1f1a2f3007a0ae660bc01989565a66d74b5e5d2a40e3fc4a05f"
+  },
+  {
+    "iwd": "mod_03.iwd",
+    "source": "images/overgrowth_ammo.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_03/images/overgrowth_ammo.dds",
+    "dds_size": 32896,
+    "dds_sha256": "26153e835916c110d25c397f079b692dc5d013dd489a2e9158ad4d7c209a9aab"
+  },
+  {
+    "iwd": "mod_03.iwd",
+    "source": "images/tier.iwi",
+    "status": "ok_fmt11_mips1_flags2",
+    "dds_path": "textures_dds/mod_03/images/tier.dds",
+    "dds_size": 32896,
+    "dds_sha256": "158cdbfbc73f3b07f7be6b67e6f34aeca56a7a94bd6bb1b7293d4d1dd3bd2121"
+  }
+]

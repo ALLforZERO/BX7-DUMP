@@ -1,0 +1,27 @@
+{
+  stateMap "passthrough"; // TODO
+
+  vertexShader 4.0 "pimp_shader_sw4_3d_phong_emissive_alcatraz_7c70ecc.hlsl"
+  {
+  }
+
+  pixelShader 4.0 "pimp_shader_sw4_3d_phong_emissive_alcatraz_8f9122c7.hlsl"
+  {
+    Glow_Map = material.Glow_Map;
+    SpecularAndGloss = material.SpecularAndGloss;
+    Normal_Map = material.Normal_Map;
+    ColorMap = material.ColorMap;
+    hdrAmount = material.hdrAmount;
+    Specular_Push = material.Specular_Push;
+    ReflectionAmount = material.ReflectionAmount;
+    SpecularAmount = material.SpecularAmount;
+    Emissive_Push = material.Emissive_Push;
+    Gloss_Push = material.Gloss_Push;
+  }
+
+  vertex.position = code.position;
+  vertex.color[0] = code.color;
+  vertex.texcoord[0] = code.texcoord[0];
+  vertex.normal = code.normal;
+  vertex.texcoord[2] = code.tangent;
+}

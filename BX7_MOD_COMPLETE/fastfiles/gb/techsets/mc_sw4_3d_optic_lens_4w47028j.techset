@@ -1,0 +1,70 @@
+"unlit":
+  pimp_technique_radiant_c2e59961;
+
+"lit":
+"lit sun":
+  pimp_technique_sw4_3d_optic_lens_b24bfd7e;
+
+"lit sun shadow":
+  pimp_technique_sw4_3d_optic_lens_342726a5;
+
+"lit spot":
+  pimp_technique_sw4_3d_optic_lens_9c35c64a;
+
+"lit spot shadow":
+  pimp_technique_sw4_3d_optic_lens_49cdad17;
+
+"lit spot square":
+  pimp_technique_sw4_3d_optic_lens_ac77d1d1;
+
+"lit spot square shadow":
+  pimp_technique_sw4_3d_optic_lens_529db227;
+
+"lit spot round":
+  pimp_technique_sw4_3d_optic_lens_3b1ef0d0;
+
+"lit spot round shadow":
+  pimp_technique_sw4_3d_optic_lens_3172ff94;
+
+"lit omni":
+  pimp_technique_sw4_3d_optic_lens_3183a5ed;
+
+"lit omni shadow":
+  pimp_technique_sw4_3d_optic_lens_953d06d2;
+
+"lit dlight glight":
+"lit sun dlight glight":
+  pimp_technique_sw4_3d_optic_lens_d21e39b6;
+
+"lit sun shadow dlight glight":
+  pimp_technique_sw4_3d_optic_lens_73c99c98;
+
+"lit spot dlight glight":
+  pimp_technique_sw4_3d_optic_lens_9e9888fd;
+
+"lit spot shadow dlight glight":
+  pimp_technique_sw4_3d_optic_lens_b7b97d9f;
+
+"lit spot square dlight glight":
+  pimp_technique_sw4_3d_optic_lens_3f1077eb;
+
+"lit spot square shadow dlight glight":
+  pimp_technique_sw4_3d_optic_lens_6b16f898;
+
+"lit spot round dlight glight":
+  pimp_technique_sw4_3d_optic_lens_9976bc50;
+
+"lit spot round shadow dlight glight":
+  pimp_technique_sw4_3d_optic_lens_7d0421df;
+
+"lit omni dlight glight":
+  pimp_technique_sw4_3d_optic_lens_9f97631b;
+
+"lit omni shadow dlight glight":
+  pimp_technique_sw4_3d_optic_lens_b4b1c3d5;
+
+"solid wireframe":
+  pimp_technique_radiant_988dfa46;
+
+"debug performance":
+  pimp_technique_debugperformance_f243a70c;

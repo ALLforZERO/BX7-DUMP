@@ -1,0 +1,128 @@
+[
+  {
+    "image": "i_p7_zm_zod_bubblegum_machine_decal_n",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/i_p7_zm_zod_bubblegum_machine_decal_n.iwi",
+    "dds_status": "ok_fmt14_mips10_flags0",
+    "dds_path": "fastfiles/gb/images_dds/i_p7_zm_zod_bubblegum_machine_decal_n.dds"
+  },
+  {
+    "image": "i_p7_zm_zod_bubblegum_machine_decal_c",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/i_p7_zm_zod_bubblegum_machine_decal_c.iwi",
+    "dds_status": "ok_fmt13_mips10_flags0",
+    "dds_path": "fastfiles/gb/images_dds/i_p7_zm_zod_bubblegum_machine_decal_c.dds"
+  },
+  {
+    "image": "i_lk_defaultspec_0018",
+    "supplied_iwi_count": 0,
+    "note": "not shipped in supplied mod IWDs; likely stock/base-game image dependency"
+  },
+  {
+    "image": "~$white-llll",
+    "supplied_iwi_count": 0,
+    "note": "not shipped in supplied mod IWDs; likely stock/base-game image dependency"
+  },
+  {
+    "image": "~~-gzombie_vending_doubletap2~3b8ca4d9",
+    "supplied_iwi_count": 0,
+    "note": "not shipped in supplied mod IWDs; likely stock/base-game image dependency"
+  },
+  {
+    "image": "zombie_vending_doubletap2_n",
+    "supplied_iwi_count": 0,
+    "note": "not shipped in supplied mod IWDs; likely stock/base-game image dependency"
+  },
+  {
+    "image": "~-gzombie_vending_doubletap2_c",
+    "supplied_iwi_count": 0,
+    "note": "not shipped in supplied mod IWDs; likely stock/base-game image dependency"
+  },
+  {
+    "image": "i_p7_zm_zod_bubblegum_machine_s",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/i_p7_zm_zod_bubblegum_machine_s.iwi",
+    "dds_status": "ok_fmt13_mips1_flags2",
+    "dds_path": "fastfiles/gb/images_dds/i_p7_zm_zod_bubblegum_machine_s.dds"
+  },
+  {
+    "image": "i_p7_zm_zod_bubblegum_machine_n",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/i_p7_zm_zod_bubblegum_machine_n.iwi",
+    "dds_status": "ok_fmt14_mips11_flags0",
+    "dds_path": "fastfiles/gb/images_dds/i_p7_zm_zod_bubblegum_machine_n.dds"
+  },
+  {
+    "image": "i_p7_zm_zod_bubblegum_machine_c",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/i_p7_zm_zod_bubblegum_machine_c.iwi",
+    "dds_status": "ok_fmt13_mips11_flags0",
+    "dds_path": "fastfiles/gb/images_dds/i_p7_zm_zod_bubblegum_machine_c.dds"
+  },
+  {
+    "image": "i_p7_zm_zod_bubblegum_machine_red_n",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/i_p7_zm_zod_bubblegum_machine_red_n.iwi",
+    "dds_status": "ok_fmt14_mips11_flags0",
+    "dds_path": "fastfiles/gb/images_dds/i_p7_zm_zod_bubblegum_machine_red_n.dds"
+  },
+  {
+    "image": "i_p7_zm_zod_bubblegum_machine_red_c_rgb",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/i_p7_zm_zod_bubblegum_machine_red_c_rgb.iwi",
+    "dds_status": "ok_fmt13_mips1_flags2",
+    "dds_path": "fastfiles/gb/images_dds/i_p7_zm_zod_bubblegum_machine_red_c_rgb.dds"
+  },
+  {
+    "image": "i_p7_zm_zod_bubblegum_machine_light_bulb_e",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/i_p7_zm_zod_bubblegum_machine_light_bulb_e.iwi",
+    "dds_status": "ok_fmt13_mips10_flags0",
+    "dds_path": "fastfiles/gb/images_dds/i_p7_zm_zod_bubblegum_machine_light_bulb_e.dds"
+  },
+  {
+    "image": "i_lk_fullspec",
+    "supplied_iwi_count": 0,
+    "note": "not shipped in supplied mod IWDs; likely stock/base-game image dependency"
+  },
+  {
+    "image": "i_p7_zm_zod_bubblegum_machine_light_bulb_c",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/i_p7_zm_zod_bubblegum_machine_light_bulb_c.iwi",
+    "dds_status": "ok_fmt13_mips10_flags0",
+    "dds_path": "fastfiles/gb/images_dds/i_p7_zm_zod_bubblegum_machine_light_bulb_c.dds"
+  },
+  {
+    "image": "i_p7_zm_zod_bubblegum_machine_glass_n",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/i_p7_zm_zod_bubblegum_machine_glass_n.iwi",
+    "dds_status": "ok_fmt14_mips11_flags0",
+    "dds_path": "fastfiles/gb/images_dds/i_p7_zm_zod_bubblegum_machine_glass_n.dds"
+  },
+  {
+    "image": "i_p7_zm_zod_bubblegum_machine_glass_c",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/i_p7_zm_zod_bubblegum_machine_glass_c.iwi",
+    "dds_status": "ok_fmt13_mips1_flags2",
+    "dds_path": "fastfiles/gb/images_dds/i_p7_zm_zod_bubblegum_machine_glass_c.dds"
+  },
+  {
+    "image": "mtl_p7_zm_zod_bubblegum_machine_nickel_spcrgb",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/mtl_p7_zm_zod_bubblegum_machine_nickel_spcrgb.iwi",
+    "dds_status": "ok_fmt13_mips1_flags2",
+    "dds_path": "fastfiles/gb/images_dds/mtl_p7_zm_zod_bubblegum_machine_nickel_spcrgb.dds"
+  },
+  {
+    "image": "mtl_p7_zm_zod_bubblegum_machine_nickel_n",
+    "supplied_iwi_count": 0,
+    "note": "not shipped in supplied mod IWDs; likely stock/base-game image dependency"
+  },
+  {
+    "image": "mtl_p7_zm_zod_bubblegum_machine_nickel_c",
+    "supplied_iwi_count": 1,
+    "iwi_path": "fastfiles/gb/images_iwi/mtl_p7_zm_zod_bubblegum_machine_nickel_c.iwi",
+    "dds_status": "ok_fmt11_mips1_flags2",
+    "dds_path": "fastfiles/gb/images_dds/mtl_p7_zm_zod_bubblegum_machine_nickel_c.dds"
+  }
+]

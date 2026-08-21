@@ -1,0 +1,17 @@
+{
+  stateMap "passthrough"; // TODO
+
+  vertexShader 4.0 "pimp_shader_debugnormals_e349c4a3.hlsl"
+  {
+  }
+
+  pixelShader 4.0 "pimp_shader_debugnormals_e349c4a3.hlsl"
+  {
+    normalMapSampler = material.normalMap;
+  }
+
+  vertex.position = code.position;
+  vertex.texcoord[0] = code.texcoord[0];
+  vertex.normal = code.normal;
+  vertex.texcoord[2] = code.tangent;
+}

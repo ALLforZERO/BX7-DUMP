@@ -1,0 +1,3 @@
+rawfile,,rumble/damage_heavy [reference_only]
+rawfile,,rumble/damage_heavy_h.rmb [reference_only]
+rawfile,,rumble/damage_heavy_l.rmb [reference_only]

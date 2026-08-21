@@ -1,0 +1,21 @@
+{
+  stateMap "passthrough"; // TODO
+
+  vertexShader 4.0 "pimp_shader_lprobe_347155f7.hlsl"
+  {
+  }
+
+  pixelShader 4.0 "pimp_shader_lprobe_71727a5b.hlsl"
+  {
+    specularMapSampler = material.specularMap;
+    normalMapSampler = material.normalMap;
+    occMapSampler = material.occlusionMap;
+    colorMapSampler = material.colorMap;
+  }
+
+  vertex.position = code.position;
+  vertex.color[0] = code.color;
+  vertex.texcoord[0] = code.texcoord[0];
+  vertex.normal = code.normal;
+  vertex.texcoord[2] = code.tangent;
+}

@@ -1,0 +1,81 @@
+{
+  "mod_zone_size": 198305246,
+  "xasset_count": 6425,
+  "xasset_type_count": 19,
+  "xasset_counts": {
+    "localize": 1,
+    "script": 87,
+    "techniqueset": 132,
+    "image": 1675,
+    "material": 1177,
+    "xmodel": 410,
+    "attachment": 20,
+    "camo": 86,
+    "fx": 231,
+    "attachmentunique": 118,
+    "rawfile": 56,
+    "soundbank": 10,
+    "tracer": 13,
+    "xanim": 2254,
+    "weapon": 141,
+    "physpreset": 8,
+    "stringtable": 4,
+    "footstepfxtable": 1,
+    "footsteptable": 1
+  },
+  "script_files_dumped": 87,
+  "rawfiles_dumped": 53,
+  "iwd_files_extracted": 866,
+  "iwi_textures": 573,
+  "dds_converted": 573,
+  "gb_images_total": 20,
+  "gb_images_supplied_by_mod": 13,
+  "dds_validation": [
+    {
+      "format": 13,
+      "file": "textures_dds/mod_00/images/$identitynormalmap.dds",
+      "size": [
+        4,
+        4
+      ],
+      "mode": "RGBA",
+      "ok": true
+    },
+    {
+      "format": 11,
+      "file": "textures_dds/mod_00/images/~-gcamo_crystallize_col.dds",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "ok": true
+    },
+    {
+      "format": 12,
+      "file": "textures_dds/mod_00/images/~-gcamo_darkmatter_col.dds",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "ok": true
+    },
+    {
+      "format": 1,
+      "file": "textures_dds/mod_00/images/~~-gmtl_t6_wpn_pistol_m1911_s~5546ff61.dds",
+      "size": [
+        32,
+        32
+      ],
+      "mode": "RGBA",
+      "ok": true
+    },
+    {
+      "format": 14,
+      "file": "textures_dds/mod_00/images/i_p7_zm_zod_bubblegum_machine_n.dds",
+      "ok": true,
+      "validation": "DDS/ATI2 header"
+    }
+  ]
+}

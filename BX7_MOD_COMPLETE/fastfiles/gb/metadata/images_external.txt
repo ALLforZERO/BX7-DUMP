@@ -1,0 +1,26 @@
+GfxImage assets declarados em gb.ff
+
+Os objetos GfxImage estão no FastFile, mas pixels_pointer_serialized = 0 e
+delay_load_pixels = true. Portanto o payload DDS não está neste FF;
+ele precisa vir dos contêineres de imagem/IPAK correspondentes.
+
+i_p7_zm_zod_bubblegum_machine_decal_n | 512x512 | hash=0xB7DC4C72 | streaming=1
+i_p7_zm_zod_bubblegum_machine_decal_c | 512x512 | hash=0xB7DC4C7F | streaming=1
+i_lk_defaultspec_0018 | 16x16 | hash=0x00000000 | streaming=1
+~$white-llll | 4x4 | hash=0x5835C870 | streaming=2
+~~-gzombie_vending_doubletap2~3b8ca4d9 | 512x512 | hash=0x8740FEFB | streaming=1
+zombie_vending_doubletap2_n | 512x512 | hash=0x55DB2FBC | streaming=1
+~-gzombie_vending_doubletap2_c | 512x512 | hash=0x3ED7BD25 | streaming=1
+i_p7_zm_zod_bubblegum_machine_s | 1024x1024 | hash=0x9D4F235F | streaming=1
+i_p7_zm_zod_bubblegum_machine_n | 1024x1024 | hash=0x9D4F2342 | streaming=1
+i_p7_zm_zod_bubblegum_machine_c | 1024x1024 | hash=0x9D4F234F | streaming=1
+i_p7_zm_zod_bubblegum_machine_red_n | 1024x1024 | hash=0x2D00328E | streaming=1
+i_p7_zm_zod_bubblegum_machine_red_c_rgb | 1024x1024 | hash=0x3EE62D0B | streaming=1
+i_p7_zm_zod_bubblegum_machine_light_bulb_e | 512x512 | hash=0x9438F26E | streaming=1
+i_lk_fullspec | 16x16 | hash=0x00000000 | streaming=1
+i_p7_zm_zod_bubblegum_machine_light_bulb_c | 512x512 | hash=0x9438F268 | streaming=1
+i_p7_zm_zod_bubblegum_machine_glass_n | 1024x512 | hash=0x23ECD597 | streaming=1
+i_p7_zm_zod_bubblegum_machine_glass_c | 1024x512 | hash=0x23ECD59A | streaming=1
+mtl_p7_zm_zod_bubblegum_machine_nickel_spcrgb | 1024x1024 | hash=0x9CBC39BE | streaming=1
+mtl_p7_zm_zod_bubblegum_machine_nickel_n | 2048x2048 | hash=0x00000000 | streaming=1
+mtl_p7_zm_zod_bubblegum_machine_nickel_c | 1024x1024 | hash=0x8643198A | streaming=1

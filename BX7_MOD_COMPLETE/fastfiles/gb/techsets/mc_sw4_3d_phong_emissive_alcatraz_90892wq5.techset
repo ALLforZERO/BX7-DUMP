@@ -1,0 +1,76 @@
+"depth prepass":
+  pimp_technique_zprepass_f2a5c89d;
+
+"build shadowmap depth":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_bffe0b4a;
+
+"unlit":
+  pimp_technique_radiant_8659a004;
+
+"lit":
+"lit sun":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_5a512444;
+
+"lit sun shadow":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_9bcb00eb;
+
+"lit spot":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_a46d9554;
+
+"lit spot shadow":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_c7b39c12;
+
+"lit spot square":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_fa1dfd8a;
+
+"lit spot square shadow":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_663d1c35;
+
+"lit spot round":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_5da86f5b;
+
+"lit spot round shadow":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_17a79711;
+
+"lit omni":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_c18bc71c;
+
+"lit omni shadow":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_363f2967;
+
+"lit dlight glight":
+"lit sun dlight glight":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_b434f2c6;
+
+"lit sun shadow dlight glight":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_748e07d6;
+
+"lit spot dlight glight":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_96a9490c;
+
+"lit spot shadow dlight glight":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_10b33d06;
+
+"lit spot square dlight glight":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_2477e75;
+
+"lit spot square shadow dlight glight":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_61627d5f;
+
+"lit spot round dlight glight":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_288cb004;
+
+"lit spot round shadow dlight glight":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_420fe2f;
+
+"lit omni dlight glight":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_7dee391;
+
+"lit omni shadow dlight glight":
+  pimp_technique_sw4_3d_phong_emissive_alcatraz_e9541fee;
+
+"solid wireframe":
+  pimp_technique_radiant_c697b472;
+
+"debug performance":
+  pimp_technique_debugperformance_c70841b5;

@@ -1,0 +1,117 @@
+[
+  {
+    "name": "blundergat.all.sabl",
+    "size": 6595856,
+    "sha256": "b9cec5a81428c8276d669e3774bb496f9732dca67041895325db56051fe0ef26"
+  },
+  {
+    "name": "cmn_foley.all.sabl",
+    "size": 1088992,
+    "sha256": "ae608acbb6ea1a75a3d18bbc71261ac7038e7e5e6e045afc5f6623be44f27357"
+  },
+  {
+    "name": "games_mp.log",
+    "size": 1064,
+    "sha256": "df40ef189be98c0c0cdc4c84cf601c7f3b47262631d3b04ab43e4475245bc6f5"
+  },
+  {
+    "name": "gb.ff",
+    "size": 540480,
+    "sha256": "1f5230c4f9e786ab0982d102ca7593702c825b1a6d610093b103a4a71e00088b"
+  },
+  {
+    "name": "gobblegum.all.sabl",
+    "size": 1878144,
+    "sha256": "5890405534dced43d1079efa57095c97b9eadce3d899ebe515958efcf6d910c1"
+  },
+  {
+    "name": "gobblegum.all.sabs",
+    "size": 10641600,
+    "sha256": "79be9ddee65c7f304d6bc4f4eca492c452cd4c51726779a59818764df1984525"
+  },
+  {
+    "name": "hitmark.all.sabl",
+    "size": 39104,
+    "sha256": "4b71e5d67816962872fc6962c1ee6564dc057c3cbedeed1e89e32dd0cf3e90c7"
+  },
+  {
+    "name": "insas.all.sabl",
+    "size": 3820800,
+    "sha256": "b2aa71928763df5630936639132b037f6da2e49dac891f301f6e00cc57da53c7"
+  },
+  {
+    "name": "intervention.all.sabl",
+    "size": 1345520,
+    "sha256": "b32ca2b90bc147d43ba05a034f392775aca9a5ca331188fd9473748f3f3814e9"
+  },
+  {
+    "name": "kar98k.all.sabl",
+    "size": 978976,
+    "sha256": "58b0c2a5c19b9971fc4deac97f2b8a2b748f5ca8f34c30058e7250cbba830af7"
+  },
+  {
+    "name": "mod.all.sabl",
+    "size": 76453424,
+    "sha256": "bf86ac2dab5f348ff03af4848979b8090c507ee885abec73fdfc15f75feb6c72"
+  },
+  {
+    "name": "mod.all.sabs",
+    "size": 74672784,
+    "sha256": "165077cc6d22b924b3c85df6a6296a62f67b4aa73f0451688e8a5c53e333342d"
+  },
+  {
+    "name": "mod.ff",
+    "size": 37279552,
+    "sha256": "b9d603f21caaac0109036cf42e8462198e7c95c1023e98cf9007fda5307c7e75"
+  },
+  {
+    "name": "mod.json",
+    "size": 164,
+    "sha256": "d8dda7dfc155b0c5d1c571174a9539590245e8f1fb0ecc16aff16fa1ec60fe57"
+  },
+  {
+    "name": "mod_00.iwd",
+    "size": 178250770,
+    "sha256": "c7e45f0d75889e42ddb4cce432189b7ff4b1a49daf37981c64e25a5f7973ac27"
+  },
+  {
+    "name": "mod_01.iwd",
+    "size": 287737524,
+    "sha256": "f85575bd5fc0c8a8a4e3b8e8651034946c23418b988776a9ad7cc86a87045bb0"
+  },
+  {
+    "name": "mod_02.iwd",
+    "size": 122467234,
+    "sha256": "3061ede239d59eefbdc42630f35a57a50067d78d9797b666d60827709af0cc93"
+  },
+  {
+    "name": "mod_03.iwd",
+    "size": 3622892,
+    "sha256": "a02357b6d42c648503850a82f802343cad84b2ff5297d5929b76bfa616ab3c8f"
+  },
+  {
+    "name": "sliquifier.all.sabl",
+    "size": 5454272,
+    "sha256": "b502cba01763b84c447d226b58e3eb5c5bc9841de497dc833f608061913bb9bc"
+  },
+  {
+    "name": "spas.all.sabl",
+    "size": 3631792,
+    "sha256": "3f154cd91d19b4e463707a65ec7d8f017ef3ad6af9b8cea713d52d43c5a60f6a"
+  },
+  {
+    "name": "wpn_freezegun.all.sabl",
+    "size": 4801056,
+    "sha256": "654e07d764388d340f2c3b5772c9e004fcf90214a216a32038c5bddd046fdfb0"
+  },
+  {
+    "name": "wpn_tesla.all.sabl",
+    "size": 8592704,
+    "sha256": "5d14a5b8c44316e95144c80d8ccd447d92aa2249414ad778e2ced3bc7d27c45c"
+  },
+  {
+    "name": "wpn_thundergun.all.sabl",
+    "size": 5587408,
+    "sha256": "6ba568d632718e8700aaba2b1e04f6628036ca552ad20eaea4fef5323b1628e6"
+  }
+]

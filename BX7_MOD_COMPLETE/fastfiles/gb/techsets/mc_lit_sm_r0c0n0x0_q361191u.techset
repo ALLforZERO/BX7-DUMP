@@ -1,0 +1,83 @@
+"depth prepass":
+  pimp_technique_zprepass_541cbafd;
+
+"build shadowmap depth":
+  pimp_technique_buildshadowmap_88e28e66;
+
+"unlit":
+  pimp_technique_vertexcolorshaded_3de321ec;
+
+"lit":
+  pimp_technique_lprobe_235c93bf;
+
+"lit sun":
+  pimp_technique_lprobe_d453239b;
+
+"lit sun shadow":
+  pimp_technique_lprobe_1e1f8858;
+
+"lit spot":
+  pimp_technique_lprobe_e19c8c93;
+
+"lit spot shadow":
+  pimp_technique_lprobe_850bc900;
+
+"lit spot square":
+  pimp_technique_lprobe_520d2fd3;
+
+"lit spot square shadow":
+  pimp_technique_lprobe_fc5d940c;
+
+"lit spot round":
+  pimp_technique_lprobe_110a4259;
+
+"lit spot round shadow":
+  pimp_technique_lprobe_e550612b;
+
+"lit omni":
+  pimp_technique_lprobe_7a2e6170;
+
+"lit omni shadow":
+  pimp_technique_lprobe_67c96267;
+
+"lit dlight glight":
+  pimp_technique_lprobe_16539036;
+
+"lit sun dlight glight":
+  pimp_technique_lprobe_29abf1bd;
+
+"lit sun shadow dlight glight":
+  pimp_technique_lprobe_9de3743f;
+
+"lit spot dlight glight":
+  pimp_technique_lprobe_78f0d3a8;
+
+"lit spot shadow dlight glight":
+  pimp_technique_lprobe_269f5fd6;
+
+"lit spot square dlight glight":
+  pimp_technique_lprobe_ebbaaf6f;
+
+"lit spot square shadow dlight glight":
+  pimp_technique_lprobe_451eb2e;
+
+"lit spot round dlight glight":
+  pimp_technique_lprobe_17b19574;
+
+"lit spot round shadow dlight glight":
+  pimp_technique_lprobe_b207aad4;
+
+"lit omni dlight glight":
+  pimp_technique_lprobe_cd5e0ae5;
+
+"lit omni shadow dlight glight":
+  pimp_technique_lprobe_4a27a9e9;
+
+"solid wireframe":
+  pimp_technique_wireframe_737d3547;
+
+"debug bumpmap":
+  pimp_technique_debugbumpmap_6b8250aa;
+
+"debug performance":
+  pimp_technique_debugperformance_65f8920f;

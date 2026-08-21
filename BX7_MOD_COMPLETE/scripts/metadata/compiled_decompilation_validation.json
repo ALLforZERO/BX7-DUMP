@@ -1,0 +1,131 @@
+[
+  {
+    "path": "aitype/zm_nuked_basic_01.gsc",
+    "source_crc": "0xEC8D7A95",
+    "exports": [
+      "reference_anims_from_animtree",
+      "main",
+      "spawner",
+      "precache"
+    ],
+    "imports": 11,
+    "string_fixups": 34,
+    "animation_refs": 272,
+    "source_lines": 339,
+    "status": "ok",
+    "problems": []
+  },
+  {
+    "path": "character/c_transit_player_engineer.gsc",
+    "source_crc": "0xC9253384",
+    "exports": [
+      "main",
+      "precache"
+    ],
+    "imports": 2,
+    "string_fixups": 5,
+    "animation_refs": 0,
+    "source_lines": 13,
+    "status": "ok",
+    "problems": []
+  },
+  {
+    "path": "character/c_transit_player_farmgirl.gsc",
+    "source_crc": "0x78043164",
+    "exports": [
+      "main",
+      "precache"
+    ],
+    "imports": 2,
+    "string_fixups": 5,
+    "animation_refs": 0,
+    "source_lines": 13,
+    "status": "ok",
+    "problems": []
+  },
+  {
+    "path": "character/c_transit_player_oldman.gsc",
+    "source_crc": "0x10FE7281",
+    "exports": [
+      "main",
+      "precache"
+    ],
+    "imports": 2,
+    "string_fixups": 5,
+    "animation_refs": 0,
+    "source_lines": 13,
+    "status": "ok",
+    "problems": []
+  },
+  {
+    "path": "character/c_transit_player_reporter.gsc",
+    "source_crc": "0x9C0FB46B",
+    "exports": [
+      "main",
+      "precache"
+    ],
+    "imports": 2,
+    "string_fixups": 5,
+    "animation_refs": 0,
+    "source_lines": 13,
+    "status": "ok",
+    "problems": []
+  },
+  {
+    "path": "character/c_zom_zombie_soldier.gsc",
+    "source_crc": "0xA649ECAE",
+    "exports": [
+      "main",
+      "precache"
+    ],
+    "imports": 6,
+    "string_fixups": 39,
+    "animation_refs": 0,
+    "source_lines": 47,
+    "status": "ok",
+    "problems": []
+  },
+  {
+    "path": "character/clientscripts/c_zom_dlc0_zombie_hazmat_2.csc",
+    "source_crc": "0x7F108F56",
+    "exports": [
+      "main",
+      "precache",
+      "register_gibs"
+    ],
+    "imports": 2,
+    "string_fixups": 20,
+    "animation_refs": 0,
+    "source_lines": 30,
+    "status": "ok",
+    "problems": []
+  },
+  {
+    "path": "character/clientscripts/c_zom_zombie_soldier.csc",
+    "source_crc": "0x1503804F",
+    "exports": [
+      "main",
+      "precache",
+      "register_gibs"
+    ],
+    "imports": 2,
+    "string_fixups": 20,
+    "animation_refs": 0,
+    "source_lines": 30,
+    "status": "ok",
+    "problems": []
+  },
+  {
+    "path": "xmodelalias/c_zom_chinese_zombie_head_helmet_als.gsc",
+    "source_crc": "0xDCA58C50",
+    "exports": [
+      "main"
+    ],
+    "imports": 0,
+    "string_fixups": 6,
+    "animation_refs": 0,
+    "source_lines": 17,
+    "status": "ok",
+    "problems": []
+  }
+]
